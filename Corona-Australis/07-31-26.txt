@@ -1,0 +1,11 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+GammaCoronaeAustralis	31/07/2026	129	20	52.6	55	56	27.4
+AlphaCoronaeAustralis	31/07/2026	130	16	16.1	55	02	56.2
+DeltaCoronaeAustralis	31/07/2026	134	27	47.4	54	07	12.6
+BetaCoronaeAustralis	31/07/2026	132	26	54.8	54	20	57.3
+zetaCoronaeAustralis	31/07/2026	137	39	52.9	54	11	47.7
+HR6942	31/07/2026	140	07	12.5	60	20	10.1
+EpsilonCoronaeAustralis	31/07/2026	130	35	05.7	57	19	08.1
+V686CoronaeAustralis	31/07/2026	131	18	41.1	57	34	44.9
+LambdaCoronaeAustralis	31/07/2026	135	20	02.6	59	18	52.0
+HR7122	31/07/2026	139	43	36.8	54	55	56.2

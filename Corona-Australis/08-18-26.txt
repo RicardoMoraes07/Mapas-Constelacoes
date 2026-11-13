@@ -1,0 +1,11 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+GammaCoronae	18/08/2026	147	9	47.7	67	22	54.0
+AlphaCoronae	18/08/2026	147	21	15.5	66	21	00.1
+DeltaCoronae	18/08/2026	151	36	36.8	64	26	39.7
+BetaCoronae	18/08/2026	149	21	52.7	65	10	11.2
+ZetaCoronae	18/08/2026	155	30	49.5	63	39	56.2
+HR6942	18/08/2026	166	6	11.3	68	15	20.5
+EpsilonCoronae	18/08/2026	150	27	06.0	68	17	24.3
+V686Coronae	18/08/2026	151	43	5.2	68	19	47.3
+LambdaCoronae	18/08/2026	159	5	33.8	68	44	33.3
+HR7170	18/08/2026	149	21	39.0	68	2	57.7
