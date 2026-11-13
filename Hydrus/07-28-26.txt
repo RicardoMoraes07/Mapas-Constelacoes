@@ -1,0 +1,6 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+AlphaHydri	28/07/2026	161	33	23.7	-3	20	25.1
+DeltaHydri	28/07/2026	167	40	18.1	0	58	28.7
+EpsilonHydrus	28/07/2026	168	52	07.80	0	12	36.3
+GammaHydri	28/07/2026	176	3	46.0	3	20	17.0
+BetaHydri	28/07/2026	168	4	44.1	12	47	52.9

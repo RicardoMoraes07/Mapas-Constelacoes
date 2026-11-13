@@ -1,0 +1,9 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+AlphaHydri	18/08/2026	154	57	35.6	3	57	59.9
+DeltaHydri	18/08/2026	162	9	22.7	6	6	40.2
+EpsilonHydri	18/08/2026	162	54	24.7	4	36	06.4
+GammaHydri	18/08/2026	170	53	48.7	5	34	40.4
+BetaHydri	18/08/2026	166	32	19.8	17	8	17.6
+
+
+
