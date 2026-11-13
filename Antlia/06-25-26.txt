@@ -1,0 +1,3 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+AlphaAntliae	25/06/2026	244	24	55.9	33	26	51.7
+EtaAntliae	25/06/2026	238	26	47.0	27	49	15.4
