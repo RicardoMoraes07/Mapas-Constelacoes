@@ -1,4 +1,0 @@
-Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
-BetaApodis	13/06/2026	170	09	58.5	27	16	36.6
-GammaApodis	13/06/2026	171	39	59.2	26	41	10.7
-AlphaApodis	13/06/2026	176	36	32.3	29	07	59.0
