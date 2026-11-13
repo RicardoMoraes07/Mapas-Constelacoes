@@ -1,0 +1,4 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+BetaChamaleontis	28/07/2026	190	26	58.5	22	38	59.7
+GammaChamaleontis	28/07/2026	191	49	14.8	17	53	12.0
+AlphaChamaleontis	28/07/2026	190	33	23.4	10	39	23.9

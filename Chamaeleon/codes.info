@@ -1,0 +1,10 @@
+rodar:
+python mapa.py
+
+Vídeo:
+ffmpeg -pattern_type glob -i "*.png" -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" -c:v libx264 -pix_fmt yuv420p output.mp4 -y
+
+Vídeo slow:
+ffmpeg -i output.mp4 -filter:v "setpts=10.0*PTS" slow.mp4 -y
+
+Desativar o -y para fazer a confirmação de substituição na mão

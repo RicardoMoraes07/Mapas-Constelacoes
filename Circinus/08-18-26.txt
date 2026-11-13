@@ -1,0 +1,4 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+GammaCircini	18/08/2026	205	34	12.1	39	57	42.1
+BetaCircini	18/08/2026	206	41	18.7	39	38	45.7
+AlphaCircini	18/08/2026	202	51	50.1	32	54	14.6
