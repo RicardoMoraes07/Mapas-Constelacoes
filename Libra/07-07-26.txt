@@ -1,0 +1,6 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+ThetaLibrae	07/07/2026	77	21	05.7	81	54	19.5
+GammaLibrae	07/07/2026	42	43	47.3	84	46	01.1
+Zubeneschamali	07/07/2026	354	4	14.3	80	40	41.9
+ZubenelgenubiII	07/07/2026	288	51	54.8	82	23	39.4
+SigmaLibrae	07/07/2026	209	30	08.1	82	19	40.3
