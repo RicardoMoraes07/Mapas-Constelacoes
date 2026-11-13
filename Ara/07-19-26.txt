@@ -1,0 +1,8 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+ThetaArae	19/07/2026	149	47	35.9	50	40	09.1
+AlphaArae	19/07/2026	156	25	28.0	54	3	19.8
+ZetaArae	19/07/2026	168	30	21.9	51	27	33.7
+EtaArae	19/07/2026	171	41	29.5	48	54	01.08
+DeltaArae	19/07/2026	165	31	15.6	45	26	49.2
+GammaArae	19/07/2026	163	24	55.9	49	34	40.0
+BetaArae	19/07/2026	162	47	27.1	50	19	26.2
