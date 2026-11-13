@@ -1,0 +1,5 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+Acrux	28/07/2026	207	22	04.80	28	9	16.7
+Mimosa	28/07/2026	210	19	29.1	31	32	06.20
+Gacrux	28/07/2026	213	52	32.5	30	6	48.2
+DeltaCrucis	28/07/2026	212	30	45.5	27	42	43.2
