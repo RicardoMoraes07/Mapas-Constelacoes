@@ -1,0 +1,10 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+LambdaAquilae	07/07/2026	83	16	51.5	33	24	10.9
+DeltaAquilae	07/07/2026	76	39	29.7	26	3	18.4
+ZetaAquilae	07/07/2026	63	29	34.2	25	51	42.2
+EpsilonAquilae	07/07/2026	61	33	15.2	26	28	55.1
+EtaAquilae	07/07/2026	81	28	28.1	20	33	41.7
+ThetaAquilae	07/07/2026	84	58	15.4	16	45	37.3
+Altair	07/07/2026	73	34	13.2	18	2	31.9
+Alshain	07/07/2026	76	25	01.0	17	57	15.0
+Tarazed	07/07/2026	71	25	12.1	18	22	25.4

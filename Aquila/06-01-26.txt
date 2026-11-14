@@ -1,0 +1,10 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+EpsilonAquilae	01/06/2026	-90	-90	-90	-90	-90	-90
+ZetaAquilae	01/06/2026	-90	-90	-90	-90	-90	-90
+DeltaAquilae	01/06/2026	-90	-90	-90	-90	-90	-90
+Tarazed	01/06/2026	-90	-90	-90	-90	-90	-90
+Altair	01/06/2026	-90	-90	-90	-90	-90	-90
+Alshain	01/06/2026	-90	-90	-90	-90	-90	-90
+LambdaAquilae	01/06/2026	-90	-90	-90	-90	-90	-90
+EtaAquilae	01/06/2026	-90	-90	-90	-90	-90	-90
+ThetaAquilae	01/06/2026	-90	-90	-90	-90	-90	-90
