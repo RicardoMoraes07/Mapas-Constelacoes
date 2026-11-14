@@ -1,0 +1,7 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+Gamma²Volantis	22/06/2026	198	47	56.6	11	37	52.1
+ZetaVolantis	22/06/2026	197	38	19.1	14	47	25.5
+DeltaVolantis	22/06/2026	201	28	26.5	11	19	14.2
+BetaVolantis	22/06/2026	204	58	53.5	17	21	57.9
+AlphaVolantis	22/06/2026	204	53	7.8	21	3	52.7
+EpsilonVolantis	22/06/2026	202	9	37.7	16	2	12.2
