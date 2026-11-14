@@ -1,0 +1,3 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+AlphaTelescopii	19/07/2026	141	23	24.8	50	26	39.2
+ZetaTelescopii	19/07/2026	145	7	02.03	48	28	46.6
