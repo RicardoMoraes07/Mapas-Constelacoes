@@ -1,0 +1,600 @@
+LOG DA CONSTELAÇÃO: Aquarius
+Gerado em 14/11/2026 a partir de 'Diário de Observação - Junho.xlsx' (abas de 01/06/2026 a 30/08/2026)
+Pasta: Aquarius   |   Arquivos gerados: 31  (22 com dados da planilha, 9 sem registro -> preenchidos com -90)
+Nome(s) da constelação na planilha: 'Aquarius' (332 linhas)  -> padronizado como 'Aquarius' / pasta 'Aquarius'
+
+==============================================================================
+1. DIAS EM QUE A CONSTELAÇÃO NÃO APARECE NA PLANILHA (arquivo criado com -90)
+==============================================================================
+   01/06/2026  (06-01-26.txt) — aba '01062026-Concluido' não contém Aquarius. Lista de estrelas copiada do dia 28/06/2026: bAquarii, PsiAquarii, LambdaAquarii, EtaAquarii, ZetaAquarii, Sadachbia, Sadalmelik, Sadalsuud, Albali, lotaAquarii, SigmaAquarii, TauAquarii, cAquarii, Ancha, Skat
+   04/06/2026  (06-04-26.txt) — aba '04062026-Concluído' não contém Aquarius. Lista de estrelas copiada do dia 28/06/2026: bAquarii, PsiAquarii, LambdaAquarii, EtaAquarii, ZetaAquarii, Sadachbia, Sadalmelik, Sadalsuud, Albali, lotaAquarii, SigmaAquarii, TauAquarii, cAquarii, Ancha, Skat
+   07/06/2026  (06-07-26.txt) — aba '07062026 - Concluído' não contém Aquarius. Lista de estrelas copiada do dia 28/06/2026: bAquarii, PsiAquarii, LambdaAquarii, EtaAquarii, ZetaAquarii, Sadachbia, Sadalmelik, Sadalsuud, Albali, lotaAquarii, SigmaAquarii, TauAquarii, cAquarii, Ancha, Skat
+   10/06/2026  (06-10-26.txt) — aba '10062026 - concluído' não contém Aquarius. Lista de estrelas copiada do dia 28/06/2026: bAquarii, PsiAquarii, LambdaAquarii, EtaAquarii, ZetaAquarii, Sadachbia, Sadalmelik, Sadalsuud, Albali, lotaAquarii, SigmaAquarii, TauAquarii, cAquarii, Ancha, Skat
+   13/06/2026  (06-13-26.txt) — aba '13062026 - Concluído' não contém Aquarius. Lista de estrelas copiada do dia 28/06/2026: bAquarii, PsiAquarii, LambdaAquarii, EtaAquarii, ZetaAquarii, Sadachbia, Sadalmelik, Sadalsuud, Albali, lotaAquarii, SigmaAquarii, TauAquarii, cAquarii, Ancha, Skat
+   16/06/2026  (06-16-26.txt) — aba '16062026 - Concluído' não contém Aquarius. Lista de estrelas copiada do dia 28/06/2026: bAquarii, PsiAquarii, LambdaAquarii, EtaAquarii, ZetaAquarii, Sadachbia, Sadalmelik, Sadalsuud, Albali, lotaAquarii, SigmaAquarii, TauAquarii, cAquarii, Ancha, Skat
+   19/06/2026  (06-19-26.txt) — aba '19062026 - concluído' não contém Aquarius. Lista de estrelas copiada do dia 28/06/2026: bAquarii, PsiAquarii, LambdaAquarii, EtaAquarii, ZetaAquarii, Sadachbia, Sadalmelik, Sadalsuud, Albali, lotaAquarii, SigmaAquarii, TauAquarii, cAquarii, Ancha, Skat
+   22/06/2026  (06-22-26.txt) — aba '22062026- Concluído' não contém Aquarius. Lista de estrelas copiada do dia 28/06/2026: bAquarii, PsiAquarii, LambdaAquarii, EtaAquarii, ZetaAquarii, Sadachbia, Sadalmelik, Sadalsuud, Albali, lotaAquarii, SigmaAquarii, TauAquarii, cAquarii, Ancha, Skat
+   25/06/2026  (06-25-26.txt) — aba '25062026 - concluido' não contém Aquarius. Lista de estrelas copiada do dia 28/06/2026: bAquarii, PsiAquarii, LambdaAquarii, EtaAquarii, ZetaAquarii, Sadachbia, Sadalmelik, Sadalsuud, Albali, lotaAquarii, SigmaAquarii, TauAquarii, cAquarii, Ancha, Skat
+
+==============================================================================
+2. POSSÍVEIS INCONSISTÊNCIAS NOS DADOS (verificar na planilha)
+==============================================================================
+2.1 Nomes de estrelas
+   'BAquarii' (1 dia(s)) e 'bAquarii' (18 dia(s)) parecem ser a MESMA estrela escrita de formas diferentes — os nomes NÃO foram alterados; padronize se for o caso.
+        'BAquarii': 15/08/2026
+        'bAquarii': 28/06/2026, 01/07/2026, 04/07/2026, 07/07/2026, 13/07/2026, 16/07/2026, 19/07/2026, 22/07/2026, 25/07/2026, 31/07/2026, 03/08/2026, 06/08/2026, 09/08/2026, 12/08/2026, 21/08/2026, 24/08/2026, 27/08/2026, 30/08/2026
+   'C²Aquarii' (2 dia(s)) e 'c^2Aquarii' (5 dia(s)) parecem ser a MESMA estrela escrita de formas diferentes — os nomes NÃO foram alterados; padronize se for o caso.
+        'C²Aquarii': 28/07/2026, 15/08/2026
+        'c^2Aquarii': 09/08/2026, 21/08/2026, 24/08/2026, 27/08/2026, 30/08/2026
+   'C²Aquarii' (2 dia(s)) e 'c²Aquarii' (2 dia(s)) parecem ser a MESMA estrela escrita de formas diferentes — os nomes NÃO foram alterados; padronize se for o caso.
+        'C²Aquarii': 28/07/2026, 15/08/2026
+        'c²Aquarii': 10/07/2026, 18/08/2026
+   'IotaAquarii' (13 dia(s)) e 'lotaAquarii' (9 dia(s)) parecem ser a MESMA estrela escrita de formas diferentes — os nomes NÃO foram alterados; padronize se for o caso.
+        'IotaAquarii': 13/07/2026, 22/07/2026, 31/07/2026, 03/08/2026, 06/08/2026, 09/08/2026, 12/08/2026, 15/08/2026, 18/08/2026, 21/08/2026, 24/08/2026, 27/08/2026, 30/08/2026
+        'lotaAquarii': 28/06/2026, 01/07/2026, 04/07/2026, 07/07/2026, 10/07/2026, 16/07/2026, 19/07/2026, 25/07/2026, 28/07/2026
+   'c^2Aquarii' (5 dia(s)) e 'c²Aquarii' (2 dia(s)) parecem ser a MESMA estrela escrita de formas diferentes — os nomes NÃO foram alterados; padronize se for o caso.
+        'c^2Aquarii': 09/08/2026, 21/08/2026, 24/08/2026, 27/08/2026, 30/08/2026
+        'c²Aquarii': 10/07/2026, 18/08/2026
+   'Albali' também aparece em outra constelação (Capricornus em 28/07/2026) — verificar em qual está correta.
+   'Ancha' também aparece em outra constelação (Capricornus em 28/07/2026) — verificar em qual está correta.
+   'EtaAquarii' também aparece em outra constelação (Capricornus em 28/07/2026) — verificar em qual está correta.
+   'LambdaAquarii' também aparece em outra constelação (Capricornus em 28/07/2026) — verificar em qual está correta.
+   'Psi¹Aquarii' também aparece em outra constelação (Capricornus em 28/07/2026) — verificar em qual está correta.
+   'Sadachbia' também aparece em outra constelação (Capricornus em 28/07/2026) — verificar em qual está correta.
+   'Sadalmelik' também aparece em outra constelação (Capricornus em 28/07/2026) — verificar em qual está correta.
+   'Sadalsuud' também aparece em outra constelação (Capricornus em 28/07/2026) — verificar em qual está correta.
+   'SigmaAquarii' também aparece em outra constelação (Capricornus em 28/07/2026) — verificar em qual está correta.
+   'Skat' também aparece em outra constelação (Capricornus em 28/07/2026) — verificar em qual está correta.
+   'TauAquarii' também aparece em outra constelação (Capricornus em 28/07/2026) — verificar em qual está correta.
+   'ZetaAquarii' também aparece em outra constelação (Capricornus em 28/07/2026) — verificar em qual está correta.
+   'b¹Aquarii' também aparece em outra constelação (Capricornus em 28/07/2026) — verificar em qual está correta.
+   'cAquarii' também aparece em outra constelação (Capricornus em 28/07/2026) — verificar em qual está correta.
+   'lotaAquarii' também aparece em outra constelação (Capricornus em 28/07/2026) — verificar em qual está correta.
+
+2.2 Estrelas que não aparecem em todos os dias observados
+   '32Aquarii80' aparece só em 1 de 22 dias: 18/08/2026
+   'BAquarii' aparece só em 1 de 22 dias: 15/08/2026
+   'C²Aquarii' aparece só em 2 de 22 dias: 28/07/2026, 15/08/2026
+   'IotaAquarii' ausente em 9 de 22 dias: 28/06/2026, 01/07/2026, 04/07/2026, 07/07/2026, 10/07/2026, 16/07/2026, 19/07/2026, 25/07/2026, 28/07/2026
+   'MuAquarii' aparece só em 1 de 22 dias: 18/08/2026
+   'PsiAquarii' ausente em 3 de 22 dias: 10/07/2026, 28/07/2026, 18/08/2026
+   'Psi¹Aquarii' aparece só em 3 de 22 dias: 10/07/2026, 28/07/2026, 18/08/2026
+   'Sadalmelik' ausente em 1 de 22 dias: 18/08/2026
+   'TauAquarii' ausente em 1 de 22 dias: 18/08/2026
+   'TauAquarii97' aparece só em 1 de 22 dias: 18/08/2026
+   'bAquarii' ausente em 4 de 22 dias: 10/07/2026, 28/07/2026, 15/08/2026, 18/08/2026
+   'b²Aquarii' aparece só em 1 de 22 dias: 18/08/2026
+   'b¹Aquarii' aparece só em 3 de 22 dias: 10/07/2026, 28/07/2026, 18/08/2026
+   'cAquarii' ausente em 9 de 22 dias: 10/07/2026, 28/07/2026, 09/08/2026, 15/08/2026, 18/08/2026, 21/08/2026, 24/08/2026, 27/08/2026, 30/08/2026
+   'c^2Aquarii' aparece só em 5 de 22 dias: 09/08/2026, 21/08/2026, 24/08/2026, 27/08/2026, 30/08/2026
+   'c²Aquarii' aparece só em 2 de 22 dias: 10/07/2026, 18/08/2026
+   'lotaAquarii' aparece só em 9 de 22 dias: 28/06/2026, 01/07/2026, 04/07/2026, 07/07/2026, 10/07/2026, 16/07/2026, 19/07/2026, 25/07/2026, 28/07/2026
+
+2.3 Dias com coordenadas idênticas a outro dia (possível cópia/colagem de dados)
+   Nada encontrado.
+
+2.4 Problemas por dia
+   [07/07/2026] aba '07072026 - concluído'
+      - linha 242 Sadalsuud: Alt(deg) = '-0' — o sinal negativo se perde na conversão numérica (float('-0') = 0), altitude ficará positiva no cálculo
+      - linha 246 TauAquarii: Altitude (35.88°) destoa da trajetória da estrela nos dias vizinhos em ~52° — possível erro de digitação
+   [13/07/2026] aba '13072026 - concluído'
+      - linha 24 IotaAquarii: Alt(deg) = '-0' — o sinal negativo se perde na conversão numérica (float('-0') = 0), altitude ficará positiva no cálculo
+   [25/07/2026] aba '25072026 - concluído'
+      - linha 234 EtaAquarii: Alt(deg) = '-0' — o sinal negativo se perde na conversão numérica (float('-0') = 0), altitude ficará positiva no cálculo
+      - linha 243 cAquarii: Alt(deg) = '-0' — o sinal negativo se perde na conversão numérica (float('-0') = 0), altitude ficará positiva no cálculo
+      - linha 239 Albali: Azimute (51.02°) destoa da trajetória da estrela nos dias vizinhos em ~40° — possível erro de digitação
+   [28/07/2026] aba '28072026- Concluído'
+      - linha 192 Psi¹Aquarii: Alt(sec): segundos com 2 casas decimais ('07.30') — esperado 1
+      - linha 194 EtaAquarii: Az(sec): segundos com 2 casas decimais ('08.30') — esperado 1
+      - linha 200 lotaAquarii: Alt(sec): segundos com 2 casas decimais ('01.80') — esperado 1
+      - linha 201 SigmaAquarii: Az(sec): segundos com 2 casas decimais ('05.40') — esperado 1
+      - linha 204 Ancha: Alt(sec): segundos com 2 casas decimais ('08.40') — esperado 1
+   [15/08/2026] aba '15082026- Concluído'
+      - linha 208 Sadalmelik: Az(sec): segundos com 2 casas decimais ('06.40') — esperado 1
+
+==============================================================================
+3. ALTERAÇÕES REALIZADAS
+==============================================================================
+Regras aplicadas a todos os valores: removidos os símbolos ° º ' " '' ; vírgula decimal trocada por ponto;
+segundos no formato XX.0X corrigidos para XX.X; espaços removidos dos nomes das estrelas;
+valores que o Excel havia convertido em data (ex.: 30.5 -> 30/mai) reconstruídos como DIA.MÊS (ex.: 30.5);
+data de cada linha = data da aba. Abaixo, cada linha no formato [valores originais] -> [valores gravados].
+
+   [28/06/2026] aba '28062026 - concluído' -> 06-28-26.txt
+      linha 250 bAquarii: [125 | 19 | 46.5 | -27 | 7 | 6.0] -> [125 | 19 | 46.5 | -27 | 7 | 6.0]
+      linha 251 PsiAquarii: Alt(sec): célula convertida pelo Excel em data (28/06/2026) -> reconstruída como '28.6'
+      linha 251 PsiAquarii: [113 | 32 | 37.0 | -31 | 26 | 28/06/2026] -> [113 | 32 | 37.0 | -31 | 26 | 28.6]
+      linha 252 LambdaAquarii: Alt(sec): célula convertida pelo Excel em data (07/07/2026) -> reconstruída como '7.7'
+      linha 252 LambdaAquarii: [109 | 1 | 0.9 | -26 | 59 | 07/07/2026] -> [109 | 1 | 0.9 | -26 | 59 | 7.7]
+      linha 253 EtaAquarii: [99 | 27 | 52.0 | -25 | 56 | 58.3] -> [99 | 27 | 52.0 | -25 | 56 | 58.3]
+      linha 254 ZetaAquarii: [98 | 43 | 36.1 | -24 | 27 | 34.4] -> [98 | 43 | 36.1 | -24 | 27 | 34.4]
+      linha 255 Sadachbia: [99 | 25 | 51.3 | -22 | 17 | 51.3] -> [99 | 25 | 51.3 | -22 | 17 | 51.3]
+      linha 256 Sadalmelik: Az(sec): célula convertida pelo Excel em data (28/03/2026) -> reconstruída como '28.3'
+      linha 256 Sadalmelik: [96 | 53 | 28/03/2026 | -18 | 56 | 44.7] -> [96 | 53 | 28.3 | -18 | 56 | 44.7]
+      linha 257 Sadalsuud: [98 | 58 | 36.3 | -9 | 7 | 30.2] -> [98 | 58 | 36.3 | -9 | 7 | 30.2]
+      linha 258 Albali: [99 | 5 | 58.7 | 2 | 41 | 0.0] -> [99 | 5 | 58.7 | 2 | 41 | 0.0]
+      linha 259 lotaAquarii: [110 | 4 | 49.8 | -14 | 3 | 38.3] -> [110 | 4 | 49.8 | -14 | 3 | 38.3]
+      linha 260 SigmaAquarii: Az(sec): célula convertida pelo Excel em data (14/03/2026) -> reconstruída como '14.3'
+      linha 260 SigmaAquarii: [109 | 34 | 14/03/2026 | -20 | 45 | 41.7] -> [109 | 34 | 14.3 | -20 | 45 | 41.7]
+      linha 261 TauAquarii: [114 | 36 | 3.0 | -23 | 37 | 57.2] -> [114 | 36 | 3.0 | -23 | 37 | 57.2]
+      linha 262 cAquarii: [124 | 21 | 40.1 | -23 | 53 | 44.8] -> [124 | 21 | 40.1 | -23 | 53 | 44.8]
+      linha 263 Ancha: Alt(sec): célula convertida pelo Excel em data (24/08/2026) -> reconstruída como '24.8'
+      linha 263 Ancha: [105 | 17 | 52.1 | -18 | 48 | 24/08/2026] -> [105 | 17 | 52.1 | -18 | 48 | 24.8]
+      linha 264 Skat: Az(sec): célula convertida pelo Excel em data (30/03/2026) -> reconstruída como '30.3'
+      linha 264 Skat: Alt(sec): célula convertida pelo Excel em data (01/05/2026) -> reconstruída como '1.5'
+      linha 264 Skat: [117 | 22 | 30/03/2026 | -23 | 38 | 01/05/2026] -> [117 | 22 | 30.3 | -23 | 38 | 1.5]
+   [01/07/2026] aba '01072026- Concluído' -> 07-01-26.txt
+      linha 443 bAquarii: [123 | 36 | 31.6 | -24 | 48 | 34.7] -> [123 | 36 | 31.6 | -24 | 48 | 34.7]
+      linha 444 PsiAquarii: [111 | 57 | 55.5 | -28 | 51 | 32.2] -> [111 | 57 | 55.5 | -28 | 51 | 32.2]
+      linha 445 LambdaAquarii: [107 | 38 | 41.5 | -24 | 19 | 38.3] -> [107 | 38 | 41.5 | -24 | 19 | 38.3]
+      linha 446 EtaAquarii: Az(sec): célula convertida pelo Excel em data (03/03/2026) -> reconstruída como '3.3'
+      linha 446 EtaAquarii: [98 | 19 | 03/03/2026 | -23 | 10 | 58.6] -> [98 | 19 | 3.3 | -23 | 10 | 58.6]
+      linha 447 ZetaAquarii: Az(sec): célula convertida pelo Excel em data (29/06/2026) -> reconstruída como '29.6'
+      linha 447 ZetaAquarii: Alt(sec): célula convertida pelo Excel em data (15/08/2026) -> reconstruída como '15.8'
+      linha 447 ZetaAquarii: [97 | 36 | 29/06/2026 | -21 | 41 | 15/08/2026] -> [97 | 36 | 29.6 | -21 | 41 | 15.8]
+      linha 448 Sadachbia: [98 | 19 | 01.0 | -19 | 31 | 51.1] -> [98 | 19 | 01.0 | -19 | 31 | 51.1]
+      linha 449 Sadalmelik: [95 | 50 | 38.3 | -16 | 9 | 46.0] -> [95 | 50 | 38.3 | -16 | 9 | 46.0]
+      linha 450 Sadalsuud: Az(sec): célula convertida pelo Excel em data (18/02/2026) -> reconstruída como '18.2'
+      linha 450 Sadalsuud: Alt(sec): célula convertida pelo Excel em data (19/03/2026) -> reconstruída como '19.3'
+      linha 450 Sadalsuud: [97 | 58 | 18/02/2026 | -6 | 21 | 19/03/2026] -> [97 | 58 | 18.2 | -6 | 21 | 19.3]
+      linha 451 Albali: Alt(sec): célula convertida pelo Excel em data (07/06/2026) -> reconstruída como '7.6'
+      linha 451 Albali: [98 | 10 | 43.7 | 5 | 12 | 07/06/2026] -> [98 | 10 | 43.7 | 5 | 12 | 7.6]
+      linha 452 lotaAquarii: Az(sec): célula convertida pelo Excel em data (12/07/2026) -> reconstruída como '12.7'
+      linha 452 lotaAquarii: Alt(sec): célula convertida pelo Excel em data (15/06/2026) -> reconstruída como '15.6'
+      linha 452 lotaAquarii: [108 | 55 | 12/07/2026 | -11 | 25 | 15/06/2026] -> [108 | 55 | 12.7 | -11 | 25 | 15.6]
+      linha 453 SigmaAquarii: Az(sec): célula convertida pelo Excel em data (03/05/2026) -> reconstruída como '3.5'
+      linha 453 SigmaAquarii: [108 | 18 | 03/05/2026 | -18 | 6 | 46.3] -> [108 | 18 | 3.5 | -18 | 6 | 46.3]
+      linha 454 TauAquarii: Az(sec): célula convertida pelo Excel em data (07/06/2026) -> reconstruída como '7.6'
+      linha 454 TauAquarii: Alt(sec): célula convertida pelo Excel em data (20/01/2026) -> reconstruída como '20.1'
+      linha 454 TauAquarii: [113 | 11 | 07/06/2026 | -21 | 4 | 20/01/2026] -> [113 | 11 | 7.6 | -21 | 4 | 20.1]
+      linha 455 cAquarii: [122 | 45 | 49.0 | -21 | 33 | 44.3] -> [122 | 45 | 49.0 | -21 | 33 | 44.3]
+      linha 456 Ancha: Az(sec): célula convertida pelo Excel em data (30/09/2026) -> reconstruída como '30.9'
+      linha 456 Ancha: [104 | 7 | 30/09/2026 | -16 | 5 | 54.4] -> [104 | 7 | 30.9 | -16 | 5 | 54.4]
+      linha 457 Skat: Az(sec): célula convertida pelo Excel em data (30/07/2026) -> reconstruída como '30.7'
+      linha 457 Skat: [115 | 54 | 30/07/2026 | -21 | 8 | 50.8] -> [115 | 54 | 30.7 | -21 | 8 | 50.8]
+   [04/07/2026] aba '04072026 - Concluído' -> 07-04-26.txt
+      linha 248 bAquarii: Alt(sec): célula convertida pelo Excel em data (20/09/2026) -> reconstruída como '20.9'
+      linha 248 bAquarii: [121 | 59 | 45.5 | -22 | 27 | 20/09/2026] -> [121 | 59 | 45.5 | -22 | 27 | 20.9]
+      linha 249 PsiAquarii: Az(sec): célula convertida pelo Excel em data (14/07/2026) -> reconstruída como '14.7'
+      linha 249 PsiAquarii: [110 | 29 | 14/07/2026 | -26 | 14 | 55.1] -> [110 | 29 | 14.7 | -26 | 14 | 55.1]
+      linha 250 LambdaAquarii: [106 | 20 | 55.0 | -21 | 38 | 57.7] -> [106 | 20 | 55.0 | -21 | 38 | 57.7]
+      linha 251 EtaAquarii: Az(sec): célula convertida pelo Excel em data (02/02/2026) -> reconstruída como '2.2'
+      linha 251 EtaAquarii: [97 | 13 | 02/02/2026 | -20 | 24 | 30.2] -> [97 | 13 | 2.2 | -20 | 24 | 30.2]
+      linha 252 ZetaAquarii: [96 | 31 | 54.4 | -18 | 54 | 31.6] -> [96 | 31 | 54.4 | -18 | 54 | 31.6]
+      linha 253 Sadachbia: [97 | 14 | 37.6 | -16 | 45 | 23.0] -> [97 | 14 | 37.6 | -16 | 45 | 23.0]
+      linha 254 Sadalmelik: Alt(sec): célula convertida pelo Excel em data (28/08/2026) -> reconstruída como '28.8'
+      linha 254 Sadalmelik: [94 | 49 | 35.0 | -13 | 22 | 28/08/2026] -> [94 | 49 | 35.0 | -13 | 22 | 28.8]
+      linha 255 Sadalsuud: Az(sec): célula convertida pelo Excel em data (28/01/2026) -> reconstruída como '28.1'
+      linha 255 Sadalsuud: [96 | 59 | 28/01/2026 | -3 | 16 | 45.0] -> [96 | 59 | 28.1 | -3 | 16 | 45.0]
+      linha 256 Albali: Az(sec): célula convertida pelo Excel em data (24/03/2026) -> reconstruída como '24.3'
+      linha 256 Albali: Alt(sec): célula convertida pelo Excel em data (02/04/2026) -> reconstruída como '2.4'
+      linha 256 Albali: [97 | 16 | 24/03/2026 | 8 | 5 | 02/04/2026] -> [97 | 16 | 24.3 | 8 | 5 | 2.4]
+      linha 257 lotaAquarii: [107 | 48 | 51.3 | -8 | 45 | 48.1] -> [107 | 48 | 51.3 | -8 | 45 | 48.1]
+      linha 258 SigmaAquarii: [107 | 5 | 43.3 | -15 | 26 | 42.4] -> [107 | 5 | 43.3 | -15 | 26 | 42.4]
+      linha 259 TauAquarii: Alt(sec): célula convertida pelo Excel em data (07/06/2026) -> reconstruída como '7.6'
+      linha 259 TauAquarii: [111 | 51 | 3.0 | -18 | 29 | 07/06/2026] -> [111 | 51 | 3.0 | -18 | 29 | 7.6]
+      linha 260 cAquarii: Alt(sec): célula convertida pelo Excel em data (16/01/2026) -> reconstruída como '16.1'
+      linha 260 cAquarii: [121 | 15 | 47.9 | -19 | 11 | 16/01/2026] -> [121 | 15 | 47.9 | -19 | 11 | 16.1]
+      linha 261 Ancha: Az(sec): célula convertida pelo Excel em data (12/09/2026) -> reconstruída como '12.9'
+      linha 261 Ancha: [103 | 0 | 12/09/2026 | -13 | 22 | 34.6] -> [103 | 0 | 12.9 | -13 | 22 | 34.6]
+      linha 262 Skat: [114 | 31 | 41.3 | -18 | 36 | 50.5] -> [114 | 31 | 41.3 | -18 | 36 | 50.5]
+   [07/07/2026] aba '07072026 - concluído' -> 07-07-26.txt
+      linha 235 bAquarii: [120 | 28 | 55.2 | -20 | 3 | 41.2] -> [120 | 28 | 55.2 | -20 | 3 | 41.2]
+      linha 236 PsiAquarii: [109 | 5 | 51.6 | -23 | 36 | 49.6] -> [109 | 5 | 51.6 | -23 | 36 | 49.6]
+      linha 237 LambdaAquarii: Az(sec): célula convertida pelo Excel em data (07/05/2026) -> reconstruída como '7.5'
+      linha 237 LambdaAquarii: Alt(sec): célula convertida pelo Excel em data (14/04/2026) -> reconstruída como '14.4'
+      linha 237 LambdaAquarii: [105 | 7 | 07/05/2026 | -18 | 57 | 14/04/2026] -> [105 | 7 | 7.5 | -18 | 57 | 14.4]
+      linha 238 EtaAquarii: Az(sec): célula convertida pelo Excel em data (21/05/2026) -> reconstruída como '21.5'
+      linha 238 EtaAquarii: [96 | 9 | 21/05/2026 | -17 | 37 | 37.9] -> [96 | 9 | 21.5 | -17 | 37 | 37.9]
+      linha 239 ZetaAquarii: Az(sec): célula convertida pelo Excel em data (25/01/2026) -> reconstruída como '25.1'
+      linha 239 ZetaAquarii: Alt(sec): célula convertida pelo Excel em data (26/01/2026) -> reconstruída como '26.1'
+      linha 239 ZetaAquarii: [95 | 29 | 25/01/2026 | -16 | 7 | 26/01/2026] -> [95 | 29 | 25.1 | -16 | 7 | 26.1]
+      linha 240 Sadachbia: [96 | 12 | 17.0 | -13 | 58 | 31.4] -> [96 | 12 | 17.0 | -13 | 58 | 31.4]
+      linha 241 Sadalmelik: [93 | 49 | 57.4 | -10 | 34 | 56.6] -> [93 | 49 | 57.4 | -10 | 34 | 56.6]
+      linha 242 Sadalsuud: [96 | 1 | 48.4 | -0.0 | 11 | 58.9] -> [96 | 1 | 48.4 | -0.0 | 11 | 58.9]
+      linha 243 Albali: Alt(sec): célula convertida pelo Excel em data (23/01/2026) -> reconstruída como '23.1'
+      linha 243 Albali: [96 | 22 | 46.0 | 10 | 50 | 23/01/2026] -> [96 | 22 | 46.0 | 10 | 50 | 23.1]
+      linha 244 lotaAquarii: Az(sec): célula convertida pelo Excel em data (21/08/2026) -> reconstruída como '21.8'
+      linha 244 lotaAquarii: Alt(sec): célula convertida pelo Excel em data (22/02/2026) -> reconstruída como '22.2'
+      linha 244 lotaAquarii: [106 | 45 | 21/08/2026 | -6 | 5 | 22/02/2026] -> [106 | 45 | 21.8 | -6 | 5 | 22.2]
+      linha 245 SigmaAquarii: [105 | 56 | 46.9 | -12 | 45 | 37.5] -> [105 | 56 | 46.9 | -12 | 45 | 37.5]
+      linha 246 TauAquarii: Az(sec): célula convertida pelo Excel em data (18/07/2026) -> reconstruída como '18.7'
+      linha 246 TauAquarii: [110 | 35 | 18/07/2026 | 35 | 52 | 30.0] -> [110 | 35 | 18.7 | 35 | 52 | 30.0]
+      linha 247 cAquarii: Az(sec): célula convertida pelo Excel em data (08/02/2026) -> reconstruída como '8.2'
+      linha 247 cAquarii: [119 | 51 | 08/02/2026 | -16 | 46 | 34.9] -> [119 | 51 | 8.2 | -16 | 46 | 34.9]
+      linha 248 Ancha: [101 | 55 | 33.9 | -10 | 38 | 31.2] -> [101 | 55 | 33.9 | -10 | 38 | 31.2]
+      linha 249 Skat: Az(sec): célula convertida pelo Excel em data (31/05/2026) -> reconstruída como '31.5'
+      linha 249 Skat: [113 | 13 | 31/05/2026 | -16 | 3 | 12.0] -> [113 | 13 | 31.5 | -16 | 3 | 12.0]
+   [10/07/2026] aba '10072026- concluído' -> 07-10-26.txt
+      linha 109 b¹Aquarii: Az(sec): célula convertida pelo Excel em data (30/04/2026) -> reconstruída como '30.4'
+      linha 109 b¹Aquarii: [119 | 3 | 30/04/2026 | -17 | 37 | 50.5] -> [119 | 3 | 30.4 | -17 | 37 | 50.5]
+      linha 110 Psi¹Aquarii: Alt(sec): célula convertida pelo Excel em data (26/03/2026) -> reconstruída como '26.3'
+      linha 110 Psi¹Aquarii: [107 | 47 | 8.2 | -20 | 57 | 26/03/2026] -> [107 | 47 | 8.2 | -20 | 57 | 26.3]
+      linha 111 LambdaAquarii: [103 | 56 | 48.7 | -16 | 14 | 36.0] -> [103 | 56 | 48.7 | -16 | 14 | 36.0]
+      linha 112 EtaAquarii: Alt(sec): célula convertida pelo Excel em data (25/09/2026) -> reconstruída como '25.9'
+      linha 112 EtaAquarii: [95 | 7 | 36.6 | -14 | 50 | 25/09/2026] -> [95 | 7 | 36.6 | -14 | 50 | 25.9]
+      linha 113 ZetaAquarii: [94 | 28 | 38.5 | -13 | 20 | 3.3] -> [94 | 28 | 38.5 | -13 | 20 | 3.3]
+      linha 114 Sadachbia: Alt(sec): célula convertida pelo Excel em data (20/04/2026) -> reconstruída como '20.4'
+      linha 114 Sadachbia: [95 | 11 | 37.3 | -11 | 11 | 20/04/2026] -> [95 | 11 | 37.3 | -11 | 11 | 20.4]
+      linha 115 Sadalmelik: Alt(sec): célula convertida pelo Excel em data (12/08/2026) -> reconstruída como '12.8'
+      linha 115 Sadalmelik: [92 | 51 | 26.0 | -7 | 47 | 12/08/2026] -> [92 | 51 | 26.0 | -7 | 47 | 12.8]
+      linha 116 Sadalsuud: Alt(sec): célula convertida pelo Excel em data (25/07/2026) -> reconstruída como '25.7'
+      linha 116 Sadalsuud: [95 | 5 | 2.3 | 1 | 59 | 25/07/2026] -> [95 | 5 | 2.3 | 1 | 59 | 25.7]
+      linha 117 Albali: [95 | 29 | 34.3 | 13 | 32 | 34.3] -> [95 | 29 | 34.3 | 13 | 32 | 34.3]
+      linha 118 lotaAquarii: [105 | 44 | 34.5 | -3 | 24 | 3.9] -> [105 | 44 | 34.5 | -3 | 24 | 3.9]
+      linha 119 SigmaAquarii: [104 | 50 | 50.5 | -10 | 3 | 38.3] -> [104 | 50 | 50.5 | -10 | 3 | 38.3]
+      linha 120 TauAquarii: Az(sec): célula convertida pelo Excel em data (27/04/2026) -> reconstruída como '27.4'
+      linha 120 TauAquarii: [109 | 23 | 27/04/2026 | -13 | 14 | 36.3] -> [109 | 23 | 27.4 | -13 | 14 | 36.3]
+      linha 121 c²Aquarii: Az(sec): célula convertida pelo Excel em data (23/05/2026) -> reconstruída como '23.5'
+      linha 121 c²Aquarii: [118 | 31 | 23/05/2026 | -14 | 19 | 53.8] -> [118 | 31 | 23.5 | -14 | 19 | 53.8]
+      linha 122 Ancha: Az(sec): célula convertida pelo Excel em data (12/02/2026) -> reconstruída como '12.2'
+      linha 122 Ancha: [100 | 53 | 12/02/2026 | -7 | 53 | 49.3] -> [100 | 53 | 12.2 | -7 | 53 | 49.3]
+      linha 123 Skat: [111 | 59 | 34.1 | -13 | 28 | 5.7] -> [111 | 59 | 34.1 | -13 | 28 | 5.7]
+   [13/07/2026] aba '13072026 - concluído' -> 07-13-26.txt
+      linha 10 Albali: [94 | 36 | 34.9 | 16 | 22 | 54.4] -> [94 | 36 | 34.9 | 16 | 22 | 54.4]
+      linha 11 Sadalsuud: [94 | 8 | 54.0 | 04 | 55 | 41.3] -> [94 | 8 | 54.0 | 04 | 55 | 41.3]
+      linha 12 Sadalmelik: [91 | 53 | 42.8 | -04 | 59 | 11.1] -> [91 | 53 | 42.8 | -04 | 59 | 11.1]
+      linha 13 Sadachbia: [94 | 12 | 18.3 | -08 | 23 | 53.3] -> [94 | 12 | 18.3 | -08 | 23 | 53.3]
+      linha 14 ZetaAquarii: [93 | 29 | 14.1 | -10 | 32 | 26.8] -> [93 | 29 | 14.1 | -10 | 32 | 26.8]
+      linha 15 EtaAquarii: [94 | 07 | 25.8 | -12 | 02 | 57.8] -> [94 | 07 | 25.8 | -12 | 02 | 57.8]
+      linha 16 LambdaAquarii: [102 | 49 | 32.2 | -13 | 31 | 09.0] -> [102 | 49 | 32.2 | -13 | 31 | 09.0]
+      linha 17 PsiAquarii: [106 | 32 | 31.3 | -18 | 16 | 54.4] -> [106 | 32 | 31.3 | -18 | 16 | 54.4]
+      linha 18 bAquarii: [117 | 43 | 03.4 | -15 | 10 | 01.6] -> [117 | 43 | 03.4 | -15 | 10 | 01.6]
+      linha 19 cAquarii: [117 | 16 | 10.1 | -11 | 51 | 24.1] -> [117 | 16 | 10.1 | -11 | 51 | 24.1]
+      linha 20 Skat: [110 | 49 | 24.6 | -10 | 51 | 40.2] -> [110 | 49 | 24.6 | -10 | 51 | 40.2]
+      linha 21 TauAquarii: [108 | 15 | 04.6 | -10 | 35 | 34.3] -> [108 | 15 | 04.6 | -10 | 35 | 34.3]
+      linha 22 SigmaAquarii: [103 | 47 | 32.4 | -07 | 20 | 50.6] -> [103 | 47 | 32.4 | -07 | 20 | 50.6]
+      linha 23 Ancha: [99 | 52 | 48.3 | -05 | 08 | 33.5] -> [99 | 52 | 48.3 | -05 | 08 | 33.5]
+      linha 24 IotaAquarii: [104 | 46 | 03.4 | -00 | 10 | 35.6] -> [104 | 46 | 03.4 | -00 | 10 | 35.6]
+   [16/07/2026] aba '16072026 - concluído' -> 07-16-26.txt
+      linha 231 bAquarii: Az(sec): célula convertida pelo Excel em data (09/06/2026) -> reconstruída como '9.6'
+      linha 231 bAquarii: Alt(sec): célula convertida pelo Excel em data (26/01/2026) -> reconstruída como '26.1'
+      linha 231 bAquarii: [116 | 27 | 09/06/2026 | -12 | 40 | 26/01/2026] -> [116 | 27 | 9.6 | -12 | 40 | 26.1]
+      linha 232 PsiAquarii: Alt(sec): célula convertida pelo Excel em data (21/06/2026) -> reconstruída como '21.6'
+      linha 232 PsiAquarii: [105 | 21 | 31.4 | -15 | 35 | 21/06/2026] -> [105 | 21 | 31.4 | -15 | 35 | 21.6]
+      linha 233 LambdaAquarii: [101 | 44 | 54.0 | -10 | 46 | 59.0] -> [101 | 44 | 54.0 | -10 | 46 | 59.0]
+      linha 234 EtaAquarii: Az(sec): célula convertida pelo Excel em data (29/05/2026) -> reconstruída como '29.5'
+      linha 234 EtaAquarii: Alt(sec): célula convertida pelo Excel em data (17/01/2026) -> reconstruída como '17.1'
+      linha 234 EtaAquarii: [93 | 8 | 29/05/2026 | -9 | 15 | 17/01/2026] -> [93 | 8 | 29.5 | -9 | 15 | 17.1]
+      linha 235 ZetaAquarii: [92 | 30 | 52.9 | -7 | 44 | 39.6] -> [92 | 30 | 52.9 | -7 | 44 | 39.6]
+      linha 236 Sadachbia: Az(sec): célula convertida pelo Excel em data (01/08/2026) -> reconstruída como '1.8'
+      linha 236 Sadachbia: Alt(sec): célula convertida pelo Excel em data (13/06/2026) -> reconstruída como '13.6'
+      linha 236 Sadachbia: [93 | 14 | 01/08/2026 | -5 | 36 | 13/06/2026] -> [93 | 14 | 1.8 | -5 | 36 | 13.6]
+      linha 237 Sadalmelik: [90 | 56 | 31.0 | -1 | 28 | 45.2] -> [90 | 56 | 31.0 | -1 | 28 | 45.2]
+      linha 238 Sadalsuud: Alt(sec): célula convertida pelo Excel em data (19/04/2026) -> reconstruída como '19.4'
+      linha 238 Sadalsuud: [93 | 13 | 08.0 | 7 | 41 | 19/04/2026] -> [93 | 13 | 08.0 | 7 | 41 | 19.4]
+      linha 239 Albali: Alt(sec): célula convertida pelo Excel em data (19/03/2026) -> reconstruída como '19.3'
+      linha 239 Albali: [93 | 43 | 33.2 | 19 | 10 | 19/03/2026] -> [93 | 43 | 33.2 | 19 | 10 | 19.3]
+      linha 240 lotaAquarii: Alt(sec): célula convertida pelo Excel em data (18/04/2026) -> reconstruída como '18.4'
+      linha 240 lotaAquarii: [103 | 49 | 35.9 | 2 | 17 | 18/04/2026] -> [103 | 49 | 35.9 | 2 | 17 | 18.4]
+      linha 241 SigmaAquarii: [102 | 46 | 33.5 | -4 | 33 | 57.4] -> [102 | 46 | 33.5 | -4 | 33 | 57.4]
+      linha 242 TauAquarii: Alt(sec): célula convertida pelo Excel em data (30/09/2026) -> reconstruída como '30.9'
+      linha 242 TauAquarii: [107 | 9 | 48.6 | -7 | 55 | 30/09/2026] -> [107 | 9 | 48.6 | -7 | 55 | 30.9]
+      linha 243 cAquarii: Az(sec): célula convertida pelo Excel em data (06/06/2026) -> reconstruída como '6.6'
+      linha 243 cAquarii: Alt(sec): célula convertida pelo Excel em data (16/01/2026) -> reconstruída como '16.1'
+      linha 243 cAquarii: [116 | 5 | 06/06/2026 | -9 | 21 | 16/01/2026] -> [116 | 5 | 6.6 | -9 | 21 | 16.1]
+      linha 244 Ancha: Az(sec): célula convertida pelo Excel em data (04/01/2026) -> reconstruída como '4.1'
+      linha 244 Ancha: [98 | 54 | 04/01/2026 | -1 | 41 | 52.1] -> [98 | 54 | 4.1 | -1 | 41 | 52.1]
+      linha 245 Skat: Alt(sec): célula convertida pelo Excel em data (03/03/2026) -> reconstruída como '3.3'
+      linha 245 Skat: [109 | 42 | 41.1 | -8 | 14 | 03/03/2026] -> [109 | 42 | 41.1 | -8 | 14 | 3.3]
+   [19/07/2026] aba '19072026 - concluído' -> 07-19-26.txt
+      linha 232 bAquarii: Az(sec): célula convertida pelo Excel em data (26/01/2026) -> reconstruída como '26.1'
+      linha 232 bAquarii: Alt(sec): célula convertida pelo Excel em data (13/09/2026) -> reconstruída como '13.9'
+      linha 232 bAquarii: [115 | 15 | 26/01/2026 | -10 | 9 | 13/09/2026] -> [115 | 15 | 26.1 | -10 | 9 | 13.9]
+      linha 233 PsiAquarii: [104 | 13 | 42.3 | -12 | 52 | 54.7] -> [104 | 13 | 42.3 | -12 | 52 | 54.7]
+      linha 234 LambdaAquarii: Alt(sec): célula convertida pelo Excel em data (10/09/2026) -> reconstruída como '10.9'
+      linha 234 LambdaAquarii: [100 | 42 | 32.7 | -8 | 2 | 10/09/2026] -> [100 | 42 | 32.7 | -8 | 2 | 10.9]
+      linha 235 EtaAquarii: Az(sec): célula convertida pelo Excel em data (28/09/2026) -> reconstruída como '28.9'
+      linha 235 EtaAquarii: [92 | 10 | 28/09/2026 | -6 | 27 | 27.0] -> [92 | 10 | 28.9 | -6 | 27 | 27.0]
+      linha 236 ZetaAquarii: Alt(sec): célula convertida pelo Excel em data (07/05/2026) -> reconstruída como '7.5'
+      linha 236 ZetaAquarii: [91 | 33 | 17.0 | -4 | 56 | 07/05/2026] -> [91 | 33 | 17.0 | -4 | 56 | 7.5]
+      linha 237 Sadachbia: Az(sec): célula convertida pelo Excel em data (30/01/2026) -> reconstruída como '30.1'
+      linha 237 Sadachbia: Alt(sec): célula convertida pelo Excel em data (22/06/2026) -> reconstruída como '22.6'
+      linha 237 Sadachbia: [92 | 16 | 30/01/2026 | -2 | 14 | 22/06/2026] -> [92 | 16 | 30.1 | -2 | 14 | 22.6]
+      linha 238 Sadalmelik: Alt(sec): célula convertida pelo Excel em data (07/07/2026) -> reconstruída como '7.7'
+      linha 238 Sadalmelik: [89 | 59 | 33.8 | 1 | 0 | 07/07/2026] -> [89 | 59 | 33.8 | 1 | 0 | 7.7]
+      linha 239 Sadalsuud: Az(sec): célula convertida pelo Excel em data (28/05/2026) -> reconstruída como '28.5'
+      linha 239 Sadalsuud: Alt(sec): célula convertida pelo Excel em data (28/04/2026) -> reconstruída como '28.4'
+      linha 239 Sadalsuud: [92 | 17 | 28/05/2026 | 10 | 27 | 28/04/2026] -> [92 | 17 | 28.5 | 10 | 27 | 28.4]
+      linha 240 Albali: Az(sec): célula convertida pelo Excel em data (13/02/2026) -> reconstruída como '13.2'
+      linha 240 Albali: [92 | 50 | 13/02/2026 | 21 | 57 | 40.8] -> [92 | 50 | 13.2 | 21 | 57 | 40.8]
+      linha 241 lotaAquarii: Alt(sec): célula convertida pelo Excel em data (04/08/2026) -> reconstruída como '4.8'
+      linha 241 lotaAquarii: [102 | 54 | 57.6 | 4 | 54 | 04/08/2026] -> [102 | 54 | 57.6 | 4 | 54 | 4.8]
+      linha 242 SigmaAquarii: [101 | 47 | 35.6 | -1 | 9 | 51.2] -> [101 | 47 | 35.6 | -1 | 9 | 51.2]
+      linha 243 TauAquarii: Az(sec): célula convertida pelo Excel em data (19/05/2026) -> reconstruída como '19.5'
+      linha 243 TauAquarii: [106 | 7 | 19/05/2026 | -5 | 14 | 32.1] -> [106 | 7 | 19.5 | -5 | 14 | 32.1]
+      linha 244 cAquarii: [114 | 57 | 53.1 | -6 | 49 | 38.8] -> [114 | 57 | 53.1 | -6 | 49 | 38.8]
+      linha 245 Ancha: Alt(sec): célula convertida pelo Excel em data (26/09/2026) -> reconstruída como '26.9'
+      linha 245 Ancha: [97 | 56 | 42.4 | 0 | 48 | 26/09/2026] -> [97 | 56 | 42.4 | 0 | 48 | 26.9]
+      linha 246 Skat: Az(sec): célula convertida pelo Excel em data (03/07/2026) -> reconstruída como '3.7'
+      linha 246 Skat: Alt(sec): célula convertida pelo Excel em data (21/08/2026) -> reconstruída como '21.8'
+      linha 246 Skat: [108 | 39 | 03/07/2026 | -5 | 35 | 21/08/2026] -> [108 | 39 | 3.7 | -5 | 35 | 21.8]
+   [22/07/2026] aba '22072026 - concluído' -> 07-22-26.txt
+      linha 10 Albali: [91 | 56 | 18.1 | 24 | 45 | 03.8] -> [91 | 56 | 18.1 | 24 | 45 | 03.8]
+      linha 11 Sadalsuud: [91 | 21 | 39.3 | 13 | 14 | 00.3] -> [91 | 21 | 39.3 | 13 | 14 | 00.3]
+      linha 12 Sadalmelik: [89 | 02 | 34.6 | 03 | 35 | 44.4] -> [89 | 02 | 34.6 | 03 | 35 | 44.4]
+      linha 13 Sadachbia: [91 | 19 | 26.2 | 00 | 25 | 03.1] -> [91 | 19 | 26.2 | 00 | 25 | 03.1]
+      linha 14 ZetaAquarii: [90 | 36 | 09.1 | -01 | 30 | 08.4] -> [90 | 36 | 09.1 | -01 | 30 | 08.4]
+      linha 15 EtaAquarii: [91 | 13 | 06.3 | -03 | 24 | 35.2] -> [91 | 13 | 06.3 | -03 | 24 | 35.2]
+      linha 16 LambdaAquarii: [99 | 42 | 08.1 | -05 | 16 | 49.3] -> [99 | 42 | 08.1 | -05 | 16 | 49.3]
+      linha 17 PsiAquarii: [103 | 08 | 40.0 | -10 | 09 | 39.9] -> [103 | 08 | 40.0 | -10 | 09 | 39.9]
+      linha 18 bAquarii: [114 | 07 | 32.0 | -07 | 36 | 34.4] -> [114 | 07 | 32.0 | -07 | 36 | 34.4]
+      linha 19 cAquarii: [113 | 54 | 11.8 | -04 | 10 | 22.5] -> [113 | 54 | 11.8 | -04 | 10 | 22.5]
+      linha 20 Skat: [107 | 38 | 13.9 | -02 | 27 | 04.3] -> [107 | 38 | 13.9 | -02 | 27 | 04.3]
+      linha 21 TauAquarii: [105 | 07 | 18.7 | -01 | 57 | 49.5] -> [105 | 07 | 18.7 | -01 | 57 | 49.5]
+      linha 22 SigmaAquarii: [100 | 50 | 21.9 | 01 | 11 | 26.9] -> [100 | 50 | 21.9 | 01 | 11 | 26.9]
+      linha 23 Ancha: [97 | 00 | 27.1 | 03 | 21 | 37.3] -> [97 | 00 | 27.1 | 03 | 21 | 37.3]
+      linha 24 IotaAquarii: [102 | 01 | 54.6 | 07 | 34 | 31.1] -> [102 | 01 | 54.6 | 07 | 34 | 31.1]
+   [25/07/2026] aba '25072026 - concluído' -> 07-25-26.txt
+      linha 231 bAquarii: Az(sec): célula convertida pelo Excel em data (08/07/2026) -> reconstruída como '8.7'
+      linha 231 bAquarii: [113 | 3 | 08/07/2026 | -5 | 2 | 35.5] -> [113 | 3 | 8.7 | -5 | 2 | 35.5]
+      linha 232 PsiAquarii: Az(sec): célula convertida pelo Excel em data (02/09/2026) -> reconstruída como '2.9'
+      linha 232 PsiAquarii: [102 | 6 | 02/09/2026 | -7 | 25 | 42.5] -> [102 | 6 | 2.9 | -7 | 25 | 42.5]
+      linha 233 LambdaAquarii: Az(sec): célula convertida pelo Excel em data (21/09/2026) -> reconstruída como '21.9'
+      linha 233 LambdaAquarii: Alt(sec): célula convertida pelo Excel em data (12/01/2026) -> reconstruída como '12.1'
+      linha 233 LambdaAquarii: [98 | 43 | 21/09/2026 | -1 | 52 | 12/01/2026] -> [98 | 43 | 21.9 | -1 | 52 | 12.1]
+      linha 234 EtaAquarii: Az(sec): célula convertida pelo Excel em data (04/09/2026) -> reconstruída como '4.9'
+      linha 234 EtaAquarii: Alt(sec): célula convertida pelo Excel em data (26/08/2026) -> reconstruída como '26.8'
+      linha 234 EtaAquarii: [90 | 16 | 04/09/2026 | -0.0 | 15 | 26/08/2026] -> [90 | 16 | 4.9 | -0.0 | 15 | 26.8]
+      linha 235 ZetaAquarii: Az(sec): célula convertida pelo Excel em data (12/05/2026) -> reconstruída como '12.5'
+      linha 235 ZetaAquarii: Alt(sec): célula convertida pelo Excel em data (21/01/2026) -> reconstruída como '21.1'
+      linha 235 ZetaAquarii: [89 | 39 | 12/05/2026 | 1 | 2 | 21/01/2026] -> [89 | 39 | 12.5 | 1 | 2 | 21.1]
+      linha 236 Sadachbia: [90 | 22 | 33.6 | 3 | 1 | 17.0] -> [90 | 22 | 33.6 | 3 | 1 | 17.0]
+      linha 237 Sadalmelik: Az(sec): célula convertida pelo Excel em data (17/01/2026) -> reconstruída como '17.1'
+      linha 237 Sadalmelik: [88 | 5 | 17/01/2026 | 6 | 20 | 30.0] -> [88 | 5 | 17.1 | 6 | 20 | 30.0]
+      linha 238 Sadalsuud: Az(sec): célula convertida pelo Excel em data (23/09/2026) -> reconstruída como '23.9'
+      linha 238 Sadalsuud: [90 | 25 | 23/09/2026 | 16 | 1 | 40.3] -> [90 | 25 | 23.9 | 16 | 1 | 40.3]
+      linha 239 Albali: Az(sec): célula convertida pelo Excel em data (29/07/2026) -> reconstruída como '29.7'
+      linha 239 Albali: [51 | 1 | 29/07/2026 | 27 | 32 | 58.9] -> [51 | 1 | 29.7 | 27 | 32 | 58.9]
+      linha 240 lotaAquarii: Alt(sec): célula convertida pelo Excel em data (04/07/2026) -> reconstruída como '4.7'
+      linha 240 lotaAquarii: [101 | 10 | 14.0 | 10 | 18 | 04/07/2026] -> [101 | 10 | 14.0 | 10 | 18 | 4.7]
+      linha 241 SigmaAquarii: [99 | 54 | 36.7 | 3 | 48 | 36.9] -> [99 | 54 | 36.7 | 3 | 48 | 36.9]
+      linha 242 TauAquarii: Az(sec): célula convertida pelo Excel em data (29/06/2026) -> reconstruída como '29.6'
+      linha 242 TauAquarii: Alt(sec): célula convertida pelo Excel em data (28/07/2026) -> reconstruída como '28.7'
+      linha 242 TauAquarii: [104 | 9 | 29/06/2026 | 0 | 36 | 28/07/2026] -> [104 | 9 | 29.6 | 0 | 36 | 28.7]
+      linha 243 cAquarii: [112 | 53 | 46.5 | -0.0 | 59 | 43.7] -> [112 | 53 | 46.5 | -0.0 | 59 | 43.7]
+      linha 244 Ancha: Az(sec): célula convertida pelo Excel em data (02/05/2026) -> reconstruída como '2.5'
+      linha 244 Ancha: Alt(sec): célula convertida pelo Excel em data (05/05/2026) -> reconstruída como '5.5'
+      linha 244 Ancha: [96 | 5 | 02/05/2026 | 6 | 5 | 05/05/2026] -> [96 | 5 | 2.5 | 6 | 5 | 5.5]
+      linha 245 Skat: Alt(sec): célula convertida pelo Excel em data (02/05/2026) -> reconstruída como '2.5'
+      linha 245 Skat: [106 | 39 | 55.3 | 0 | 15 | 02/05/2026] -> [106 | 39 | 55.3 | 0 | 15 | 2.5]
+   [28/07/2026] aba '28072026- Concluído' -> 07-28-26.txt
+      linha 191 b¹Aquarii: Alt(sec): célula convertida pelo Excel em data (24/06/2026) -> reconstruída como '24.6'
+      linha 191 b¹Aquarii: [112 | 1 | 59.4 | -2 | 27 | 24/06/2026] -> [112 | 1 | 59.4 | -2 | 27 | 24.6]
+      linha 192 Psi¹Aquarii: Az(sec): célula convertida pelo Excel em data (31/07/2026) -> reconstruída como '31.7'
+      linha 192 Psi¹Aquarii: [101 | 5 | 31/07/2026 | -4 | 41 | 07.30] -> [101 | 5 | 31.7 | -4 | 41 | 07.30]
+      linha 193 LambdaAquarii: Alt(sec): célula convertida pelo Excel em data (18/06/2026) -> reconstruída como '18.6'
+      linha 193 LambdaAquarii: [97 | 45 | 57.2 | 0 | 15 | 18/06/2026] -> [97 | 45 | 57.2 | 0 | 15 | 18.6]
+      linha 194 EtaAquarii: Alt(sec): célula convertida pelo Excel em data (30/09/2026) -> reconstruída como '30.9'
+      linha 194 EtaAquarii: [89 | 19 | 08.30 | 1 | 56 | 30/09/2026] -> [89 | 19 | 08.30 | 1 | 56 | 30.9]
+      linha 195 ZetaAquarii: Az(sec): célula convertida pelo Excel em data (11/01/2026) -> reconstruída como '11.1'
+      linha 195 ZetaAquarii: Alt(sec): célula convertida pelo Excel em data (15/04/2026) -> reconstruída como '15.4'
+      linha 195 ZetaAquarii: [88 | 42 | 11/01/2026 | 3 | 27 | 15/04/2026] -> [88 | 42 | 11.1 | 3 | 27 | 15.4]
+      linha 196 Sadachbia: [89 | 25 | 36.1 | 5 | 35 | 33.1] -> [89 | 25 | 36.1 | 5 | 35 | 33.1]
+      linha 197 Sadalmelik: Az(sec): célula convertida pelo Excel em data (24/05/2026) -> reconstruída como '24.5'
+      linha 197 Sadalmelik: Alt(sec): célula convertida pelo Excel em data (29/04/2026) -> reconstruída como '29.4'
+      linha 197 Sadalmelik: [87 | 7 | 24/05/2026 | 9 | 0 | 29/04/2026] -> [87 | 7 | 24.5 | 9 | 0 | 29.4]
+      linha 198 Sadalsuud: Az(sec): célula convertida pelo Excel em data (24/09/2026) -> reconstruída como '24.9'
+      linha 198 Sadalsuud: Alt(sec): célula convertida pelo Excel em data (21/07/2026) -> reconstruída como '21.7'
+      linha 198 Sadalsuud: [89 | 28 | 24/09/2026 | 18 | 46 | 21/07/2026] -> [89 | 28 | 24.9 | 18 | 46 | 21.7]
+      linha 199 Albali: Az(sec): célula convertida pelo Excel em data (27/09/2026) -> reconstruída como '27.9'
+      linha 199 Albali: [90 | 5 | 27/09/2026 | 30 | 19 | 08.0] -> [90 | 5 | 27.9 | 30 | 19 | 08.0]
+      linha 200 lotaAquarii: [100 | 19 | 43.8 | 12 | 58 | 01.80] -> [100 | 19 | 43.8 | 12 | 58 | 01.80]
+      linha 201 SigmaAquarii: [99 | 0 | 05.40 | 6 | 22 | 36.7] -> [99 | 0 | 05.40 | 6 | 22 | 36.7]
+      linha 202 TauAquarii: Alt(sec): célula convertida pelo Excel em data (05/10/2026) -> reconstruída como '5.1'
+      linha 202 TauAquarii: [103 | 13 | 37.1 | 2 | 53 | 05/10/2026] -> [103 | 13 | 37.1 | 2 | 53 | 5.1]
+      linha 203 C²Aquarii: Az(sec): célula convertida pelo Excel em data (22/08/2026) -> reconstruída como '22.8'
+      linha 203 C²Aquarii: [111 | 56 | 22/08/2026 | 0 | 52 | 51.1] -> [111 | 56 | 22.8 | 0 | 52 | 51.1]
+      linha 204 Ancha: Az(sec): célula convertida pelo Excel em data (13/08/2026) -> reconstruída como '13.8'
+      linha 204 Ancha: [95 | 10 | 13/08/2026 | 8 | 44 | 08.40] -> [95 | 10 | 13.8 | 8 | 44 | 08.40]
+      linha 205 Skat: Alt(sec): célula convertida pelo Excel em data (11/09/2026) -> reconstruída como '11.9'
+      linha 205 Skat: [105 | 43 | 52.9 | 2 | 26 | 11/09/2026] -> [105 | 43 | 52.9 | 2 | 26 | 11.9]
+   [31/07/2026] aba '31072026 - concluído' -> 07-31-26.txt
+      linha 10 Albali: [89 | 07 | 49.5 | 33 | 08 | 31.0] -> [89 | 07 | 49.5 | 33 | 08 | 31.0]
+      linha 11 Sadalsuud: [88 | 30 | 23.5 | 21 | 36 | 35.0] -> [88 | 30 | 23.5 | 21 | 36 | 35.0]
+      linha 12 Sadalmelik: [86 | 08 | 39.7 | 11 | 52 | 17.6] -> [86 | 08 | 39.7 | 11 | 52 | 17.6]
+      linha 13 Sadachbia: [88 | 28 | 17.3 | 08 | 29 | 06.3] -> [88 | 28 | 17.3 | 08 | 29 | 06.3]
+      linha 14 ZetaAquarii: [87 | 44 | 48.5 | 06 | 22 | 19.8] -> [87 | 44 | 48.5 | 06 | 22 | 19.8]
+      linha 15 EtaAquarii: [88 | 22 | 00.3 | 04 | 53 | 20.5] -> [88 | 22 | 00.3 | 04 | 53 | 20.5]
+      linha 16 LambdaAquarii: [96 | 49 | 38.0 | 03 | 13 | 53.5] -> [96 | 49 | 38.0 | 03 | 13 | 53.5]
+      linha 17 PsiAquarii: [100 | 06 | 48.5 | -01 | 16 | 45.7] -> [100 | 06 | 48.5 | -01 | 16 | 45.7]
+      linha 18 bAquarii: [111 | 03 | 48.9 | 00 | 33 | 13.5] -> [111 | 03 | 48.9 | 00 | 33 | 13.5]
+      linha 19 cAquarii: [111 | 01 | 47.8 | 03 | 40 | 08.1] -> [111 | 01 | 47.8 | 03 | 40 | 08.1]
+      linha 20 Skat: [104 | 49 | 53.0 | 05 | 16 | 36.3] -> [104 | 49 | 53.0 | 05 | 16 | 36.3]
+      linha 21 TauAquarii: [102 | 19 | 26.9 | 05 | 44 | 43.2] -> [102 | 19 | 26.9 | 05 | 44 | 43.2]
+      linha 22 SigmaAquarii: [98 | 06 | 33.9 | 09 | 13 | 54.9] -> [98 | 06 | 33.9 | 09 | 13 | 54.9]
+      linha 23 Ancha: [94 | 15 | 46.0 | 11 | 35 | 45.4] -> [94 | 15 | 46.0 | 11 | 35 | 45.4]
+      linha 24 IotaAquarii: [99 | 30 | 12.0 | 15 | 46 | 37.5] -> [99 | 30 | 12.0 | 15 | 46 | 37.5]
+   [03/08/2026] aba '03082026-concluído' -> 08-03-26.txt
+      linha 10 Albali: [88 | 08 | 08.0 | 35 | 56 | 29.1] -> [88 | 08 | 08.0 | 35 | 56 | 29.1]
+      linha 11 Sadalsuud: [87 | 30 | 59.1 | 24 | 24 | 25.4] -> [87 | 30 | 59.1 | 24 | 24 | 25.4]
+      linha 12 Sadalmelik: [85 | 08 | 44.0 | 14 | 39 | 24.3] -> [85 | 08 | 44.0 | 14 | 39 | 24.3]
+      linha 13 Sadachbia: [87 | 30 | 20.1 | 11 | 16 | 10.0] -> [87 | 30 | 20.1 | 11 | 16 | 10.0]
+      linha 14 ZetaAquarii: [86 | 46 | 47.7 | 09 | 08 | 44.0] -> [86 | 46 | 47.7 | 09 | 08 | 44.0]
+      linha 15 EtaAquarii: [87 | 24 | 24.2 | 07 | 39 | 06.7] -> [87 | 24 | 24.2 | 07 | 39 | 06.7]
+      linha 16 LambdaAquarii: [95 | 54 | 08.6 | 05 | 57 | 15.7] -> [95 | 54 | 08.6 | 05 | 57 | 15.7]
+      linha 17 PsiAquarii: [99 | 09 | 36.3 | 01 | 11 | 40.6] -> [99 | 09 | 36.3 | 01 | 11 | 40.6]
+      linha 18 bAquarii: [110 | 08 | 23.5 | 02 | 59 | 57.7] -> [110 | 08 | 23.5 | 02 | 59 | 57.7]
+      linha 19 cAquarii: [110 | 09 | 49.8 | 06 | 14 | 28.3] -> [110 | 09 | 49.8 | 06 | 14 | 28.3]
+      linha 20 Skat: [103 | 57 | 42.5 | 07 | 57 | 30.2] -> [103 | 57 | 42.5 | 07 | 57 | 30.2]
+      linha 21 TauAquarii: [101 | 26 | 45.5 | 08 | 27 | 30.1] -> [101 | 26 | 45.5 | 08 | 27 | 30.1]
+      linha 22 SigmaAquarii: [97 | 13 | 48.3 | 11 | 59 | 43.0] -> [97 | 13 | 48.3 | 11 | 59 | 43.0]
+      linha 23 Ancha: [93 | 21 | 23.7 | 14 | 22 | 57.5] -> [93 | 21 | 23.7 | 14 | 22 | 57.5]
+      linha 24 IotaAquarii: [98 | 41 | 26.8 | 18 | 32 | 19.6] -> [98 | 41 | 26.8 | 18 | 32 | 19.6]
+   [06/08/2026] aba '06082026 - concluído' -> 08-06-26.txt
+      linha 7 Albali: [87 | 05 | 52.1 | 38 | 44 | 14.8] -> [87 | 05 | 52.1 | 38 | 44 | 14.8]
+      linha 8 Sadalsuud: [86 | 29 | 48.7 | 27 | 11 | 58.9] -> [86 | 29 | 48.7 | 27 | 11 | 58.9]
+      linha 9 Sadalmelik: [84 | 07 | 17.5 | 17 | 26 | 07.2] -> [84 | 07 | 17.5 | 17 | 26 | 07.2]
+      linha 10 Sadachbia: [86 | 31 | 26.6 | 14 | 03 | 04.4] -> [86 | 31 | 26.6 | 14 | 03 | 04.4]
+      linha 11 ZetaAquarii: [85 | 47 | 51.1 | 11 | 55 | 10.5] -> [85 | 47 | 51.1 | 11 | 55 | 10.5]
+      linha 12 EtaAquarii: [86 | 26 | 02.8 | 10 | 25 | 16.4] -> [86 | 26 | 02.8 | 10 | 25 | 16.4]
+      linha 13 LambdaAquarii: [94 | 59 | 13.5 | 08 | 42 | 13.3] -> [94 | 59 | 13.5 | 08 | 42 | 13.3]
+      linha 14 PsiAquarii: [98 | 13 | 39.2 | 03 | 47 | 35.9] -> [98 | 13 | 39.2 | 03 | 47 | 35.9]
+      linha 15 bAquarii: [109 | 15 | 30.5 | 05 | 33 | 10.5] -> [109 | 15 | 30.5 | 05 | 33 | 10.5]
+      linha 16 cAquarii: [109 | 20 | 18.1 | 08 | 50 | 32.5] -> [109 | 20 | 18.1 | 08 | 50 | 32.5]
+      linha 17 Skat: [103 | 07 | 09.5 | 10 | 39 | 21.7] -> [103 | 07 | 09.5 | 10 | 39 | 21.7]
+      linha 18 TauAquarii: [100 | 35 | 20.0 | 11 | 11 | 03.2] -> [100 | 35 | 20.0 | 11 | 11 | 03.2]
+      linha 19 SigmaAquarii: [96 | 21 | 34.5 | 14 | 45 | 45.7] -> [96 | 21 | 34.5 | 14 | 45 | 45.7]
+      linha 20 Ancha: [92 | 26 | 51.3 | 17 | 10 | 10.4] -> [92 | 26 | 51.3 | 17 | 10 | 10.4]
+      linha 21 IotaAquarii: [97 | 53 | 16.4 | 21 | 18 | 13.0] -> [97 | 53 | 16.4 | 21 | 18 | 13.0]
+   [09/08/2026] aba '09082026 - concluído' -> 08-09-26.txt
+      linha 7 Albali: [86 | 00 | 24.8 | 41 | 31 | 45.1] -> [86 | 00 | 24.8 | 41 | 31 | 45.1]
+      linha 8 Sadalsuud: [85 | 26 | 26.4 | 29 | 59 | 13.6] -> [85 | 26 | 26.4 | 29 | 59 | 13.6]
+      linha 9 Sadalmelik: [83 | 03 | 58.6 | 20 | 12 | 24.4] -> [83 | 03 | 58.6 | 20 | 12 | 24.4]
+      linha 10 Sadachbia: [85 | 31 | 17.9 | 16 | 49 | 45.5] -> [85 | 31 | 17.9 | 16 | 49 | 45.5]
+      linha 11 ZetaAquarii: [84 | 47 | 40.2 | 14 | 41 | 27.5] -> [84 | 47 | 40.2 | 14 | 41 | 27.5]
+      linha 12 EtaAquarii: [85 | 26 | 38.1 | 13 | 11 | 27.7] -> [85 | 26 | 38.1 | 13 | 11 | 27.7]
+      linha 13 LambdaAquarii: [94 | 04 | 37.8 | 11 | 27 | 55.2] -> [94 | 04 | 37.8 | 11 | 27 | 55.2]
+      linha 14 PsiAquarii: [97 | 18 | 41.9 | 06 | 29 | 16.2] -> [97 | 18 | 41.9 | 06 | 29 | 16.2]
+      linha 15 bAquarii: [108 | 24 | 58.8 | 08 | 09 | 07.2] -> [108 | 24 | 58.8 | 08 | 09 | 07.2]
+      linha 16 c^2Aquarii: [108 | 33 | 03.3 | 11 | 27 | 45.2] -> [108 | 33 | 03.3 | 11 | 27 | 45.2]
+      linha 17 Skat: [102 | 18 | 02.5 | 13 | 21 | 54.9] -> [102 | 18 | 02.5 | 13 | 21 | 54.9]
+      linha 18 TauAquarii: [99 | 44 | 58.0 | 13 | 55 | 09.9] -> [99 | 44 | 58.0 | 13 | 55 | 09.9]
+      linha 19 SigmaAquarii: [95 | 29 | 38.7 | 17 | 32 | 01.0] -> [95 | 29 | 38.7 | 17 | 32 | 01.0]
+      linha 20 Ancha: [91 | 31 | 52.3 | 19 | 57 | 23.5] -> [91 | 31 | 52.3 | 19 | 57 | 23.5]
+      linha 21 IotaAquarii: [97 | 05 | 28.7 | 24 | 04 | 17.5] -> [97 | 05 | 28.7 | 24 | 04 | 17.5]
+   [12/08/2026] aba '12082026 - concluído' -> 08-12-26.txt
+      linha 7 Albali: [84 | 51 | 01.7 | 44 | 19 | 14.7] -> [84 | 51 | 01.7 | 44 | 19 | 14.7]
+      linha 8 Sadalsuud: [84 | 20 | 23.0 | 32 | 46 | 33.9] -> [84 | 20 | 23.0 | 32 | 46 | 33.9]
+      linha 9 Sadalmelik: [81 | 58 | 23.9 | 22 | 58 | 54.0] -> [81 | 58 | 23.9 | 22 | 58 | 54.0]
+      linha 10 Sadachbia: [84 | 29 | 33.5 | 19 | 36 | 58.0] -> [84 | 29 | 33.5 | 19 | 36 | 58.0]
+      linha 11 ZetaAquarii: [83 | 45 | 55.3 | 17 | 28 | 23.4] -> [83 | 45 | 55.3 | 17 | 28 | 23.4]
+      linha 12 EtaAquarii: [84 | 25 | 51.4 | 15 | 58 | 29.7] -> [84 | 25 | 51.4 | 15 | 58 | 29.7]
+      linha 13 LambdaAquarii: [93 | 10 | 06.4 | 14 | 15 | 08.6] -> [93 | 10 | 06.4 | 14 | 15 | 08.6]
+      linha 14 PsiAquarii: [96 | 24 | 30.0 | 09 | 14 | 43.1] -> [96 | 24 | 30.0 | 09 | 14 | 43.1]
+      linha 15 bAquarii: [107 | 36 | 38.4 | 10 | 48 | 02.4] -> [107 | 36 | 38.4 | 10 | 48 | 02.4]
+      linha 16 cAquarii: [107 | 47 | 57.6 | 14 | 06 | 58.0] -> [107 | 47 | 57.6 | 14 | 06 | 58.0]
+      linha 17 Skat: [101 | 30 | 11.1 | 16 | 06 | 00.7] -> [101 | 30 | 11.1 | 16 | 06 | 00.7]
+      linha 18 TauAquarii: [98 | 55 | 27.4 | 16 | 40 | 40.4] -> [98 | 55 | 27.4 | 16 | 40 | 40.4]
+      linha 19 SigmaAquarii: [94 | 37 | 47.0 | 20 | 19 | 13.6] -> [94 | 37 | 47.0 | 20 | 19 | 13.6]
+      linha 20 Ancha: [90 | 36 | 09.5 | 22 | 45 | 16.6] -> [90 | 36 | 09.5 | 22 | 45 | 16.6]
+      linha 21 IotaAquarii: [96 | 17 | 51.6 | 26 | 51 | 06.9] -> [96 | 17 | 51.6 | 26 | 51 | 06.9]
+   [15/08/2026] aba '15082026- Concluído' -> 08-15-26.txt
+      linha 206 Albali: Alt(sec): célula convertida pelo Excel em data (25/04/2026) -> reconstruída como '25.4'
+      linha 206 Albali: [83 | 36 | 47.3 | 47 | 5 | 25/04/2026] -> [83 | 36 | 47.3 | 47 | 5 | 25.4]
+      linha 207 Sadalsuud: [83 | 11 | 04.0 | 35 | 32 | 05.0] -> [83 | 11 | 04.0 | 35 | 32 | 05.0]
+      linha 208 Sadalmelik: [80 | 50 | 06.40 | 25 | 42 | 45.2] -> [80 | 50 | 06.40 | 25 | 42 | 45.2]
+      linha 209 Sadachbia: [83 | 25 | 51.1 | 22 | 21 | 21.0] -> [83 | 25 | 51.1 | 22 | 21 | 21.0]
+      linha 210 ZetaAquarii: Az(sec): célula convertida pelo Excel em data (14/06/2026) -> reconstruída como '14.6'
+      linha 210 ZetaAquarii: Alt(sec): célula convertida pelo Excel em data (11/04/2026) -> reconstruída como '11.4'
+      linha 210 ZetaAquarii: [82 | 42 | 14/06/2026 | 20 | 12 | 11/04/2026] -> [82 | 42 | 14.6 | 20 | 12 | 11.4]
+      linha 211 EtaAquarii: Alt(sec): célula convertida pelo Excel em data (13/06/2026) -> reconstruída como '13.6'
+      linha 211 EtaAquarii: [83 | 23 | 22.0 | 18 | 42 | 13/06/2026] -> [83 | 23 | 22.0 | 18 | 42 | 13.6]
+      linha 212 LambdaAquarii: Az(sec): célula convertida pelo Excel em data (23/06/2026) -> reconstruída como '23.6'
+      linha 212 LambdaAquarii: Alt(sec): célula convertida pelo Excel em data (13/08/2026) -> reconstruída como '13.8'
+      linha 212 LambdaAquarii: [92 | 15 | 23/06/2026 | 16 | 59 | 13/08/2026] -> [92 | 15 | 23.6 | 16 | 59 | 13.8]
+      linha 213 PsiAquarii: Alt(sec): célula convertida pelo Excel em data (10/04/2026) -> reconstruída como '10.4'
+      linha 213 PsiAquarii: [95 | 30 | 49.0 | 11 | 56 | 10/04/2026] -> [95 | 30 | 49.0 | 11 | 56 | 10.4]
+      linha 214 BAquarii: Az(sec): célula convertida pelo Excel em data (20/05/2026) -> reconstruída como '20.5'
+      linha 214 BAquarii: [106 | 50 | 20/05/2026 | 13 | 23 | 37.8] -> [106 | 50 | 20.5 | 13 | 23 | 37.8]
+      linha 215 C²Aquarii: [107 | 4 | 53.8 | 16 | 43 | 29.0] -> [107 | 4 | 53.8 | 16 | 43 | 29.0]
+      linha 216 Skat: Az(sec): célula convertida pelo Excel em data (25/02/2026) -> reconstruída como '25.2'
+      linha 216 Skat: [100 | 43 | 25/02/2026 | 18 | 47 | 34.0] -> [100 | 43 | 25.2 | 18 | 47 | 34.0]
+      linha 217 TauAquarii: [98 | 6 | 37.5 | 19 | 23 | 38.5] -> [98 | 6 | 37.5 | 19 | 23 | 38.5]
+      linha 218 SigmaAquarii: Alt(sec): célula convertida pelo Excel em data (11/04/2026) -> reconstruída como '11.4'
+      linha 218 SigmaAquarii: [93 | 45 | 44.4 | 23 | 4 | 11/04/2026] -> [93 | 45 | 44.4 | 23 | 4 | 11.4]
+      linha 219 Ancha: Az(sec): célula convertida pelo Excel em data (23/08/2026) -> reconstruída como '23.8'
+      linha 219 Ancha: [89 | 39 | 23/08/2026 | 25 | 30 | 59.4] -> [89 | 39 | 23.8 | 25 | 30 | 59.4]
+      linha 220 IotaAquarii: Az(sec): célula convertida pelo Excel em data (11/09/2026) -> reconstruída como '11.9'
+      linha 220 IotaAquarii: Alt(sec): célula convertida pelo Excel em data (19/08/2026) -> reconstruída como '19.8'
+      linha 220 IotaAquarii: [95 | 30 | 11/09/2026 | 29 | 36 | 19/08/2026] -> [95 | 30 | 11.9 | 29 | 36 | 19.8]
+   [18/08/2026] aba '18082026 - Concluído' -> 08-18-26.txt
+      linha 6 Albali: Az(sec): célula convertida pelo Excel em data (16/08/2026) -> reconstruída como '16.8'
+      linha 6 Albali: [82 | 13 | 16/08/2026 | 49 | 59 | 55.7] -> [82 | 13 | 16.8 | 49 | 59 | 55.7]
+      linha 7 MuAquarii: Az(sec): célula convertida pelo Excel em data (24/05/2026) -> reconstruída como '24.5'
+      linha 7 MuAquarii: Alt(sec): célula convertida pelo Excel em data (21/07/2026) -> reconstruída como '21.7'
+      linha 7 MuAquarii: [82 | 3 | 24/05/2026 | 48 | 40 | 21/07/2026] -> [82 | 3 | 24.5 | 48 | 40 | 21.7]
+      linha 8 Sadalsuud: [81 | 54 | 49.5 | 38 | 26 | 51.3] -> [81 | 54 | 49.5 | 38 | 26 | 51.3]
+      linha 9 32Aquarii80: [80 | 7 | 00.2 | 29 | 3 | 35.1] -> [80 | 7 | 00.2 | 29 | 3 | 35.1]
+      linha 10 Sadachbia: Az(sec): célula convertida pelo Excel em data (02/08/2026) -> reconstruída como '2.8'
+      linha 10 Sadachbia: Alt(sec): célula convertida pelo Excel em data (04/04/2026) -> reconstruída como '4.4'
+      linha 10 Sadachbia: [82 | 17 | 02/08/2026 | 25 | 17 | 04/04/2026] -> [82 | 17 | 2.8 | 25 | 17 | 4.4]
+      linha 11 ZetaAquarii: Az(sec): célula convertida pelo Excel em data (31/01/2026) -> reconstruída como '31.1'
+      linha 11 ZetaAquarii: [81 | 33 | 31/01/2026 | 23 | 7 | 50.4] -> [81 | 33 | 31.1 | 23 | 7 | 50.4]
+      linha 12 EtaAquarii: Az(sec): célula convertida pelo Excel em data (07/08/2026) -> reconstruída como '7.8'
+      linha 12 EtaAquarii: Alt(sec): célula convertida pelo Excel em data (19/04/2026) -> reconstruída como '19.4'
+      linha 12 EtaAquarii: [82 | 16 | 07/08/2026 | 21 | 38 | 19/04/2026] -> [82 | 16 | 7.8 | 21 | 38 | 19.4]
+      linha 13 LambdaAquarii: [91 | 17 | 58.9 | 19 | 56 | 48.4] -> [91 | 17 | 58.9 | 19 | 56 | 48.4]
+      linha 14 Psi¹Aquarii: Az(sec): célula convertida pelo Excel em data (14/07/2026) -> reconstruída como '14.7'
+      linha 14 Psi¹Aquarii: Alt(sec): célula convertida pelo Excel em data (04/07/2026) -> reconstruída como '4.7'
+      linha 14 Psi¹Aquarii: [94 | 35 | 14/07/2026 | 14 | 54 | 04/07/2026] -> [94 | 35 | 14.7 | 14 | 54 | 4.7]
+      linha 15 b¹Aquarii: Az(sec): célula convertida pelo Excel em data (11/09/2026) -> reconstruída como '11.9'
+      linha 15 b¹Aquarii: [106 | 4 | 11/09/2026 | 16 | 14 | 43.0] -> [106 | 4 | 11.9 | 16 | 14 | 43.0]
+      linha 16 Ancha: [88 | 38 | 53.2 | 28 | 27 | 46.1] -> [88 | 38 | 53.2 | 28 | 27 | 46.1]
+      linha 17 IotaAquarii: Az(sec): célula convertida pelo Excel em data (22/03/2026) -> reconstruída como '22.3'
+      linha 17 IotaAquarii: Alt(sec): célula convertida pelo Excel em data (09/01/2026) -> reconstruída como '9.1'
+      linha 17 IotaAquarii: [94 | 40 | 22/03/2026 | 32 | 32 | 09/01/2026] -> [94 | 40 | 22.3 | 32 | 32 | 9.1]
+      linha 18 SigmaAquarii: Az(sec): célula convertida pelo Excel em data (08/07/2026) -> reconstruída como '8.7'
+      linha 18 SigmaAquarii: [92 | 51 | 08/07/2026 | 26 | 0 | 52.8] -> [92 | 51 | 8.7 | 26 | 0 | 52.8]
+      linha 19 TauAquarii97: Az(sec): célula convertida pelo Excel em data (19/07/2026) -> reconstruída como '19.7'
+      linha 19 TauAquarii97: Alt(sec): célula convertida pelo Excel em data (24/03/2026) -> reconstruída como '24.3'
+      linha 19 TauAquarii97: [97 | 16 | 19/07/2026 | 22 | 19 | 24/03/2026] -> [97 | 16 | 19.7 | 22 | 19 | 24.3]
+      linha 20 Skat: [99 | 55 | 45.8 | 21 | 42 | 00.2] -> [99 | 55 | 45.8 | 21 | 42 | 00.2]
+      linha 21 c²Aquarii: Az(sec): célula convertida pelo Excel em data (09/04/2026) -> reconstruída como '9.4'
+      linha 21 c²Aquarii: [106 | 22 | 09/04/2026 | 19 | 33 | 45.2] -> [106 | 22 | 9.4 | 19 | 33 | 45.2]
+      linha 22 b²Aquarii: Az(sec): célula convertida pelo Excel em data (08/05/2026) -> reconstruída como '8.5'
+      linha 22 b²Aquarii: [106 | 48 | 08/05/2026 | 15 | 41 | 03.0] -> [106 | 48 | 8.5 | 15 | 41 | 03.0]
+   [21/08/2026] aba '21082026 - concluído' -> 08-21-26.txt
+      linha 7 Albali: [80 | 44 | 04.1 | 52 | 41 | 00.0] -> [80 | 44 | 04.1 | 52 | 41 | 00.0]
+      linha 8 Sadalsuud: [80 | 36 | 23.1 | 41 | 07 | 46.8] -> [80 | 36 | 23.1 | 41 | 07 | 46.8]
+      linha 9 Sadalmelik: [78 | 20 | 37.6 | 31 | 16 | 38.2] -> [78 | 20 | 37.6 | 31 | 16 | 38.2]
+      linha 10 Sadachbia: [81 | 08 | 24.8 | 27 | 58 | 05.2] -> [81 | 08 | 24.8 | 27 | 58 | 05.2]
+      linha 11 ZetaAquarii: [80 | 25 | 11.0 | 25 | 48 | 28.2] -> [80 | 25 | 11.0 | 25 | 48 | 28.2]
+      linha 12 EtaAquarii: [81 | 09 | 32.4 | 24 | 19 | 15.9] -> [81 | 09 | 32.4 | 24 | 19 | 15.9]
+      linha 13 LambdaAquarii: [90 | 22 | 22.5 | 22 | 39 | 50.3] -> [90 | 22 | 22.5 | 22 | 39 | 50.3]
+      linha 14 PsiAquarii: [93 | 42 | 25.7 | 17 | 36 | 38.2] -> [93 | 42 | 25.7 | 17 | 36 | 38.2]
+      linha 15 bAquarii: [105 | 21 | 52.5 | 18 | 52 | 15.3] -> [105 | 21 | 52.5 | 18 | 52 | 15.3]
+      linha 16 c^2Aquarii: [105 | 42 | 52.4 | 22 | 11 | 11.4] -> [105 | 42 | 52.4 | 22 | 11 | 11.4]
+      linha 17 Skat: [99 | 10 | 39.8 | 24 | 23 | 24.2] -> [99 | 10 | 39.8 | 24 | 23 | 24.2]
+      linha 18 TauAquarii: [96 | 28 | 13.3 | 25 | 01 | 38.8] -> [96 | 28 | 13.3 | 25 | 01 | 38.8]
+      linha 19 SigmaAquarii: [91 | 57 | 47.8 | 28 | 43 | 59.7] -> [91 | 57 | 47.8 | 28 | 43 | 59.7]
+      linha 20 Ancha: [87 | 38 | 48.2 | 31 | 10 | 45.8] -> [87 | 38 | 48.2 | 31 | 10 | 45.8]
+      linha 21 IotaAquarii: [93 | 51 | 11.5 | 35 | 15 | 07.5] -> [93 | 51 | 11.5 | 35 | 15 | 07.5]
+   [24/08/2026] aba '24082026 - Concluído' -> 08-24-26.txt
+      linha 7 Albali: [79 | 11 | 40.6 | 55 | 24 | 33.6] -> [79 | 11 | 40.6 | 55 | 24 | 33.6]
+      linha 8 Sadalsuud: [79 | 16 | 03.9 | 43 | 51 | 17.6] -> [79 | 16 | 03.9 | 43 | 51 | 17.6]
+      linha 9 Sadalmelik: [77 | 03 | 29.8 | 33 | 58 | 56.4] -> [77 | 03 | 29.8 | 33 | 58 | 56.4]
+      linha 10 Sadachbia: [79 | 58 | 24.9 | 30 | 41 | 46.9] -> [79 | 58 | 24.9 | 30 | 41 | 46.9]
+      linha 11 ZetaAquarii: [79 | 15 | 19.6 | 28 | 31 | 48.9] -> [79 | 15 | 19.6 | 28 | 31 | 48.9]
+      linha 12 EtaAquarii: [80 | 01 | 34.8 | 27 | 02 | 55.3] -> [80 | 01 | 34.8 | 27 | 02 | 55.3]
+      linha 13 LambdaAquarii: [89 | 27 | 14.3 | 25 | 25 | 15.3] -> [89 | 27 | 14.3 | 25 | 25 | 15.3]
+      linha 14 PsiAquarii: [92 | 50 | 22.5 | 20 | 21 | 28.7] -> [92 | 50 | 22.5 | 20 | 21 | 28.7]
+      linha 15 bAquarii: [104 | 42 | 23.2 | 21 | 31 | 13.0] -> [104 | 42 | 23.2 | 21 | 31 | 13.0]
+      linha 16 c^2Aquarii: [105 | 06 | 54.6 | 24 | 49 | 56.1] -> [105 | 06 | 54.6 | 24 | 49 | 56.1]
+      linha 17 Skat: [98 | 27 | 57.7 | 27 | 06 | 29.1] -> [98 | 27 | 57.7 | 27 | 06 | 29.1]
+      linha 18 TauAquarii: [95 | 42 | 01.9 | 27 | 45 | 53.3] -> [95 | 42 | 01.9 | 27 | 45 | 53.3]
+      linha 19 SigmaAquarii: [91 | 05 | 41.5 | 31 | 29 | 22.4] -> [91 | 05 | 41.5 | 31 | 29 | 22.4]
+      linha 20 Ancha: [86 | 39 | 01.9 | 33 | 56 | 13.4] -> [86 | 39 | 01.9 | 33 | 56 | 13.4]
+      linha 21 IotaAquarii: [93 | 04 | 23.7 | 38 | 00 | 13.4] -> [93 | 04 | 23.7 | 38 | 00 | 13.4]
+   [27/08/2026] aba '27082026 - concluído' -> 08-27-26.txt
+      linha 7 Albali: [77 | 22 | 39.7 | 58 | 08 | 58.6] -> [77 | 22 | 39.7 | 58 | 08 | 58.6]
+      linha 8 Sadalsuud: [77 | 45 | 24.8 | 46 | 35 | 46.9] -> [77 | 45 | 24.8 | 46 | 35 | 46.9]
+      linha 9 Sadalmelik: [75 | 38 | 27.6 | 36 | 41 | 57.8] -> [75 | 38 | 27.6 | 36 | 41 | 57.8]
+      linha 10 Sadachbia: [78 | 42 | 00.9 | 33 | 26 | 36.2] -> [78 | 42 | 00.9 | 33 | 26 | 36.2]
+      linha 11 ZetaAquarii: [77 | 59 | 20.8 | 31 | 16 | 12.2] -> [77 | 59 | 20.8 | 31 | 16 | 12.2]
+      linha 12 EtaAquarii: [78 | 47 | 57.2 | 29 | 47 | 43.5] -> [78 | 47 | 57.2 | 29 | 47 | 43.5]
+      linha 13 LambdaAquarii: [88 | 28 | 46.6 | 28 | 12 | 51.1] -> [88 | 28 | 46.6 | 28 | 12 | 51.1]
+      linha 14 PsiAquarii: [91 | 56 | 14.0 | 23 | 08 | 48.3] -> [91 | 56 | 14.0 | 23 | 08 | 48.3]
+      linha 15 bAquarii: [104 | 03 | 01.9 | 24 | 13 | 28.6] -> [104 | 03 | 01.9 | 24 | 13 | 28.6]
+      linha 16 c^2Aquarii: [104 | 31 | 05.0 | 27 | 31 | 58.0] -> [104 | 31 | 05.0 | 27 | 31 | 58.0]
+      linha 17 Skat: [97 | 43 | 52.0 | 29 | 52 | 28.2] -> [97 | 43 | 52.0 | 29 | 52 | 28.2]
+      linha 18 TauAquarii: [94 | 53 | 44.9 | 30 | 32 | 50.6] -> [94 | 53 | 44.9 | 30 | 32 | 50.6]
+      linha 19 SigmaAquarii: [90 | 09 | 57.2 | 34 | 17 | 05.6] -> [90 | 09 | 57.2 | 34 | 17 | 05.6]
+      linha 20 Ancha: [85 | 34 | 01.2 | 36 | 43 | 35.9] -> [85 | 34 | 01.2 | 36 | 43 | 35.9]
+      linha 21 IotaAquarii: [92 | 13 | 50.9 | 40 | 47 | 50.8] -> [92 | 13 | 50.9 | 40 | 47 | 50.8]
+   [30/08/2026] aba '30082026 - concluído' -> 08-30-26.txt
+      linha 7 Albali: [75 | 18 | 21.1 | 60 | 52 | 17.6] -> [75 | 18 | 21.1 | 60 | 52 | 17.6]
+      linha 8 Sadalsuud: [76 | 06 | 21.0 | 49 | 19 | 30.0] -> [76 | 06 | 21.0 | 49 | 19 | 30.0]
+      linha 9 Sadalmelik: [74 | 07 | 14.1 | 39 | 24 | 13.0] -> [74 | 07 | 14.1 | 39 | 24 | 13.0]
+      linha 10 Sadachbia: [77 | 20 | 50.9 | 36 | 11 | 00.5] -> [77 | 20 | 50.9 | 36 | 11 | 00.5]
+      linha 11 ZetaAquarii: [76 | 38 | 48.1 | 34 | 00 | 09.7] -> [76 | 38 | 48.1 | 34 | 00 | 09.7]
+      linha 12 EtaAquarii: [77 | 30 | 10.0 | 32 | 32 | 11.9] -> [77 | 30 | 10.0 | 32 | 32 | 11.9]
+      linha 13 LambdaAquarii: [87 | 28 | 28.5 | 31 | 00 | 47.2] -> [87 | 28 | 28.5 | 31 | 00 | 47.2]
+      linha 14 PsiAquarii: [91 | 01 | 16.7 | 25 | 56 | 45.3] -> [91 | 01 | 16.7 | 25 | 56 | 45.3]
+      linha 15 bAquarii: [103 | 25 | 11.0 | 26 | 56 | 41.6] -> [103 | 25 | 11.0 | 26 | 56 | 41.6]
+      linha 16 c^2Aquarii: [103 | 56 | 56.0 | 30 | 14 | 51.0] -> [103 | 56 | 56.0 | 30 | 14 | 51.0]
+      linha 17 Skat: [97 | 00 | 00.5 | 32 | 39 | 07.9] -> [97 | 00 | 00.5 | 32 | 39 | 07.9]
+      linha 18 TauAquarii: [94 | 05 | 00.9 | 33 | 20 | 22.6] -> [94 | 05 | 00.9 | 33 | 20 | 22.6]
+      linha 19 SigmaAquarii: [89 | 12 | 21.8 | 37 | 05 | 08.9] -> [89 | 12 | 21.8 | 37 | 05 | 08.9]
+      linha 20 Ancha: [84 | 25 | 35.7 | 39 | 31 | 01.2] -> [84 | 25 | 35.7 | 39 | 31 | 01.2]
+      linha 21 IotaAquarii: [91 | 21 | 41.7 | 43 | 35 | 49.6] -> [91 | 21 | 41.7 | 43 | 35 | 49.6]
