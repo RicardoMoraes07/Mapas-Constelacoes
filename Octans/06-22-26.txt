@@ -1,0 +1,4 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+NuOctantis	22/06/2026	167	42	23.9	13	54	28.2
+BetaOctantis	22/06/2026	172	45	35.6	13	22	50.0
+DeltaOctantis	22/06/2026	179	44	42.7	24	55	3
