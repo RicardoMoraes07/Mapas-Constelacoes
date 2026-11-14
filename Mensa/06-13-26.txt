@@ -1,0 +1,3 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+Mumensae	13/06/2026	193	08	45.2	04	42	39.2
+GammaMensae	13/06/2026	191	29	02.1	10	47	26.1
