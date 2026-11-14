@@ -1,0 +1,23 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+Etasagittarii	04/06/2026	123	04	47.6	21	25	50.3
+Kausaustralis	04/06/2026	120	46	56.4	19	45	43.9
+Alnasl	04/06/2026	115	55	41.4	22	57	24.7
+3Sagittarii	04/06/2026	112	27	53.2	26	30	58.0
+KausMedia	04/06/2026	115	53	35.2	19	37	35.6
+KausBorealis	04/06/2026	111	40	53.9	17	13	15.5
+MuSagittarii	04/06/2026	106	26	01.6	19	25	07.4
+PhiSagittarii	04/06/2026	114	13	15.7	13	44	25.4
+Ascella	04/06/2026	118	02	50.9	10	53	04.1
+Tausagittarii	04/06/2026	116	09	04.0	09	23	05.6
+Nunki	04/06/2026	114	05	26.6	11	29	59.9
+XiSagittarii	04/06/2026	109	10	07.6	09	33	28.4
+OmicronSagittarii	04/06/2026	110	15	08.7	08	12	06.3
+43Sagittari	04/06/2026	108	29	44.0	04	32	08.6
+Rhosagittarii	04/06/2026	107	44	43.7	03	19	20.1
+62sagittarii	04/06/2026	120	15	40.1	-0.2	20	09.1
+ThetaSagittarii	04/06/2026	127	01	34.0	01	27	09.7
+Lotasagittarii	04/06/2026	132	50	11.2	04	31	47.1
+Rukbat	04/06/2026	129	44	18.6	09	37	54.2
+BetaSagittarii	04/06/2026	133	47	28.8	10	53	14.8
+hSagittarii	04/06/2026	115	20	16.4	02	26	21.7
+
