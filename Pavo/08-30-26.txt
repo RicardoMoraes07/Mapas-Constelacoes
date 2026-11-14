@@ -1,0 +1,12 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+Peacock	30/08/2026	161	01	01.5	48	19	04.0
+GammaPavonis	30/08/2026	160	59	07.4	37	02	48.9
+BetaPavonis	30/08/2026	165	45	41.0	39	12	13.1
+DeltaPavonis	30/08/2026	169	54	15.3	41	00	00.7
+ZetaPavonis	30/08/2026	180	53	24.6	37	18	45.5
+EpsilonPavonis	30/08/2026	173	54	00.3	35	01	20.4
+KappaPavonis	30/08/2026	179	23	51.3	41	31	31.2
+LambdaPavonis	30/08/2026	180	03	39.6	46	34	15.6
+XiPavonis	30/08/2026	185	07	25.2	46	56	01.6
+PiPavonis	30/08/2026	186	47	25.3	44	26	28.8
+EtaPavonis	30/08/2026	189	34	52.1	42	39	16.4
