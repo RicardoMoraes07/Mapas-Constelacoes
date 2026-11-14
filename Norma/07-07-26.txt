@@ -1,0 +1,5 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+EpsilonNormae	07/07/2026	158	28	36.4	58	2	37.9
+Etanormae	07/07/2026	166	38	45.6	58	13	3.8
+GammaNormae^2	07/07/2026	162	43	6.0	56	19	43.2
+KappaNormae	07/07/2026	167	18	13.7	52	36	19.0
