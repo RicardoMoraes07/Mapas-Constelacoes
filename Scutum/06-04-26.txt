@@ -1,0 +1,6 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+BetaScuti	04/06/2026    92	36	45.9	07	10	43.6
+AlphaScuti 	04/06/2026    95	03	48.8	11	02	27.2
+GammaScuti	04/06/2026    100	49	56.2	14	14	58.2
+HD175156    	04/06/2026    103	37	23.7	08	40	15.6
+RScuti    04/06/2026	93	33	13.6	07	24	02.5
