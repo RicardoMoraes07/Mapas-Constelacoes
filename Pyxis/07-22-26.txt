@@ -1,0 +1,4 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+BetaPyxidis	22/07/2026	-90	-90	-90	-90	-90	-90
+AlphaPyxidis 	22/07/2026	-90	-90	-90	-90	-90	-90
+GammaPyxidis	22/07/2026	-90	-90	-90	-90	-90	-90
