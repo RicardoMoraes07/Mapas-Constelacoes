@@ -1,0 +1,4 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+Atria	28/06/2026	166	45	39.1	36	6	19.6
+BetaTrianguliAustralis	28/06/2026	169	12	9.5	43	36	38.7
+GammaTrianguliAustralis	28/06/2026	175	55	36.5	39	39	34.9
