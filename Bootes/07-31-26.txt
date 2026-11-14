@@ -1,0 +1,10 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+ZetaBoötis	31/07/2026	311	54	45.5	43	44	39.1
+Arcturus	31/07/2026	311	43	02.8	35	33	52.1
+Muphrid	31/07/2026	307	11	49.2	32	14	08.5
+UpsilonBoötis	31/07/2026	303	50	34.5	32	46	23.7
+RhoBoötis	31/07/2026	324	08	15.5	30	03	48.5
+Seginus	31/07/2026	329	43	58.0	23	53	32.1
+Nekkar	31/07/2026	336	17	15.3	25	21	06.6
+DeltaBoötis	31/07/2026	335	03	58.5	32	50	44.0
+EpsilonBoötis(Izar)	31/07/2026	324	20	00.6	34	26	16.0
