@@ -1,0 +1,14 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+PiScorpii	22/06/2026	112	49	30.7	66	19	24.2
+Dschubba	22/06/2026	104	3	32.4	66	33	48.2
+BetaScorpii	22/06/2026	97	2	1.8	65	27	55.1
+Antares	22/06/2026	110	40	21.7	59	32	10.8
+TauScorpii	22/06/2026	113	37	26.0	57	50	00.1
+EpsilonScorpii	22/06/2026	122	55	16.2	53	29	25.7
+MuScorpii	22/06/2026	128	38	25.9	51	59	54.9
+EtaScorpii	22/06/2026	134	1	21.0	46	34	11.2
+ZetaScorpii	22/06/2026	134	40	10.2	49	52	59.1
+Sargas	22/06/2026	131	43	4.2	42	16	35.5
+IotaScorpiiA	22/06/2026	127	24	16.8	41	2	1.8
+KappaScorpii	22/06/2026	126	11	58.4	42	11	54.1
+Shaula	22/06/2026	124	1	53.5	44	15	52.5

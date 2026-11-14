@@ -1,0 +1,14 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+PiScorpii	25/07/2026	223	46	5.6	79	23	4.5
+Dschubba	25/07/2026	240	2	10.0	81	41	12.8
+BetaScorpii	25/07/2026	258	14	10.5	83	43	27.5
+Antares	25/07/2026	183	26	43.3	82	12	33.0
+TauScorpii	25/07/2026	174	10	11.0	80	23	28.0
+EpsilonScorpii	25/07/2026	165	58	19.4	73	49	40.5
+MuScorpii	25/07/2026	168	2	38.6	70	6	52.8
+EtaScorpii	25/07/2026	162	51	19.8	63	58	29.2
+ZetaScorpii	25/07/2026	169	27	8.0	65	48	5.5
+Sargas	25/07/2026	153	43	8.3	61	59	15.4
+LotaScorpil	25/07/2026	146	34	45.8	63	1	19.5
+KappaScorpii	25/07/2026	146	32	41.0	64	29	37.9
+Shaula	25/07/2026	146	38	40.9	67	5	36.3
