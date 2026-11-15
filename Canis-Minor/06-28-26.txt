@@ -1,0 +1,3 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+Gomeisa	28/06/2026	-90	-90	-90	-90	-90	-90
+Procyon	28/06/2026	-90	-90	-90	-90	-90	-90

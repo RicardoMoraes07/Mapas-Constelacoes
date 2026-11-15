@@ -1,0 +1,77 @@
+LOG DA CONSTELAÇÃO: Canis Minor
+Gerado em 14/11/2026 a partir de 'Diário de Observação - Junho.xlsx' (abas de 01/06/2026 a 30/08/2026)
+Pasta: Canis-Minor   |   Arquivos gerados: 31  (6 com dados da planilha, 25 sem registro -> preenchidos com -90)
+Nome(s) da constelação na planilha: 'Canis Minor ' (4 linhas), 'Canis Minor' (9 linhas)  -> padronizado como 'Canis Minor' / pasta 'Canis-Minor'
+
+==============================================================================
+1. DIAS EM QUE A CONSTELAÇÃO NÃO APARECE NA PLANILHA (arquivo criado com -90)
+==============================================================================
+   13/06/2026  (06-13-26.txt) — aba '13062026 - Concluído' não contém Canis Minor. Lista de estrelas copiada do dia 10/06/2026: Procyon, Gomeisa
+   16/06/2026  (06-16-26.txt) — aba '16062026 - Concluído' não contém Canis Minor. Lista de estrelas copiada do dia 10/06/2026: Procyon, Gomeisa
+   19/06/2026  (06-19-26.txt) — aba '19062026 - concluído' não contém Canis Minor. Lista de estrelas copiada do dia 22/06/2026: Gomeisa, Procyon
+   25/06/2026  (06-25-26.txt) — aba '25062026 - concluido' não contém Canis Minor. Lista de estrelas copiada do dia 22/06/2026: Gomeisa, Procyon
+   28/06/2026  (06-28-26.txt) — aba '28062026 - concluído' não contém Canis Minor. Lista de estrelas copiada do dia 22/06/2026: Gomeisa, Procyon
+   01/07/2026  (07-01-26.txt) — aba '01072026- Concluído' não contém Canis Minor. Lista de estrelas copiada do dia 22/06/2026: Gomeisa, Procyon
+   04/07/2026  (07-04-26.txt) — aba '04072026 - Concluído' não contém Canis Minor. Lista de estrelas copiada do dia 22/06/2026: Gomeisa, Procyon
+   07/07/2026  (07-07-26.txt) — aba '07072026 - concluído' não contém Canis Minor. Lista de estrelas copiada do dia 22/06/2026: Gomeisa, Procyon
+   10/07/2026  (07-10-26.txt) — aba '10072026- concluído' não contém Canis Minor. Lista de estrelas copiada do dia 22/06/2026: Gomeisa, Procyon
+   13/07/2026  (07-13-26.txt) — aba '13072026 - concluído' não contém Canis Minor. Lista de estrelas copiada do dia 22/06/2026: Gomeisa, Procyon
+   16/07/2026  (07-16-26.txt) — aba '16072026 - concluído' não contém Canis Minor. Lista de estrelas copiada do dia 22/06/2026: Gomeisa, Procyon
+   19/07/2026  (07-19-26.txt) — aba '19072026 - concluído' não contém Canis Minor. Lista de estrelas copiada do dia 22/06/2026: Gomeisa, Procyon
+   22/07/2026  (07-22-26.txt) — aba '22072026 - concluído' não contém Canis Minor. Lista de estrelas copiada do dia 18/08/2026: Procyon, HR2918, Gomeisa
+   25/07/2026  (07-25-26.txt) — aba '25072026 - concluído' não contém Canis Minor. Lista de estrelas copiada do dia 18/08/2026: Procyon, HR2918, Gomeisa
+   28/07/2026  (07-28-26.txt) — aba '28072026- Concluído' não contém Canis Minor. Lista de estrelas copiada do dia 18/08/2026: Procyon, HR2918, Gomeisa
+   31/07/2026  (07-31-26.txt) — aba '31072026 - concluído' não contém Canis Minor. Lista de estrelas copiada do dia 18/08/2026: Procyon, HR2918, Gomeisa
+   03/08/2026  (08-03-26.txt) — aba '03082026-concluído' não contém Canis Minor. Lista de estrelas copiada do dia 18/08/2026: Procyon, HR2918, Gomeisa
+   06/08/2026  (08-06-26.txt) — aba '06082026 - concluído' não contém Canis Minor. Lista de estrelas copiada do dia 18/08/2026: Procyon, HR2918, Gomeisa
+   09/08/2026  (08-09-26.txt) — aba '09082026 - concluído' não contém Canis Minor. Lista de estrelas copiada do dia 18/08/2026: Procyon, HR2918, Gomeisa
+   12/08/2026  (08-12-26.txt) — aba '12082026 - concluído' não contém Canis Minor. Lista de estrelas copiada do dia 18/08/2026: Procyon, HR2918, Gomeisa
+   15/08/2026  (08-15-26.txt) — aba '15082026- Concluído' não contém Canis Minor. Lista de estrelas copiada do dia 18/08/2026: Procyon, HR2918, Gomeisa
+   21/08/2026  (08-21-26.txt) — aba '21082026 - concluído' não contém Canis Minor. Lista de estrelas copiada do dia 18/08/2026: Procyon, HR2918, Gomeisa
+   24/08/2026  (08-24-26.txt) — aba '24082026 - Concluído' não contém Canis Minor. Lista de estrelas copiada do dia 18/08/2026: Procyon, HR2918, Gomeisa
+   27/08/2026  (08-27-26.txt) — aba '27082026 - concluído' não contém Canis Minor. Lista de estrelas copiada do dia 18/08/2026: Procyon, HR2918, Gomeisa
+   30/08/2026  (08-30-26.txt) — aba '30082026 - concluído' não contém Canis Minor. Lista de estrelas copiada do dia 18/08/2026: Procyon, HR2918, Gomeisa
+
+==============================================================================
+2. POSSÍVEIS INCONSISTÊNCIAS NOS DADOS (verificar na planilha)
+==============================================================================
+2.1 Nomes de estrelas
+   Nada encontrado.
+
+2.2 Estrelas que não aparecem em todos os dias observados
+   'HR2918' aparece só em 1 de 6 dias: 18/08/2026
+
+2.3 Dias com coordenadas idênticas a outro dia (possível cópia/colagem de dados)
+   07/06/2026 e 22/06/2026: 2 de 2 estrela(s) com Az/Alt EXATAMENTE iguais — as posições deveriam mudar de um dia para outro. Estrelas: Gomeisa, Procyon
+
+2.4 Problemas por dia
+   Nada encontrado.
+
+==============================================================================
+3. ALTERAÇÕES REALIZADAS
+==============================================================================
+Regras aplicadas a todos os valores: removidos os símbolos ° º ' " '' ; vírgula decimal trocada por ponto;
+segundos no formato XX.0X corrigidos para XX.X; espaços removidos dos nomes das estrelas;
+valores que o Excel havia convertido em data (ex.: 30.5 -> 30/mai) reconstruídos como DIA.MÊS (ex.: 30.5);
+data de cada linha = data da aba. Abaixo, cada linha no formato [valores originais] -> [valores gravados].
+
+   [01/06/2026] aba '01062026-Concluido' -> 06-01-26.txt
+      linha 409 Procyon: [278° | 11' | 12.3" | 7 | 55' | 14.0"] -> [278 | 11 | 12.3 | 7 | 55 | 14.0]
+      linha 410 Gomeisa: [280° | 04' | 55.1" | 4 | 07' | 47.9"] -> [280 | 04 | 55.1 | 4 | 07 | 47.9]
+   [04/06/2026] aba '04062026-Concluído' -> 06-04-26.txt
+      linha 350 Procyon: [277° | 12' | 11.2" | 05° | 14' | 06.5"] -> [277 | 12 | 11.2 | 05 | 14 | 06.5]
+      linha 351 Gomeisa: [279° | 07' | 20.2" | 01° | 33' | 33.7"] -> [279 | 07 | 20.2 | 01 | 33 | 33.7]
+   [07/06/2026] aba '07062026 - Concluído' -> 06-07-26.txt
+      linha 65 Gomeisa: [278° | 10' | 28.7'' | -01° | 32' | 22.4''] -> [278 | 10 | 28.7 | -01 | 32 | 22.4]
+      linha 66 Procyon: [276° | 13' | 59.4'' | 02° | 17' | 58.0''] -> [276 | 13 | 59.4 | 02 | 17 | 58.0]
+   [10/06/2026] aba '10062026 - concluído' -> 06-10-26.txt
+      linha 385 Procyon: [275° | 15' | 59.1" | 00° | 01' | 08.7"] -> [275 | 15 | 59.1 | 00 | 01 | 08.7]
+      linha 386 Gomeisa: [277° | 13' | 44.0" | -04° | 15' | 31.9"] -> [277 | 13 | 44.0 | -04 | 15 | 31.9]
+   [22/06/2026] aba '22062026- Concluído' -> 06-22-26.txt
+      linha 65 Gomeisa: [278° | 10' | 28.7'' | -01° | 32' | 22.4''] -> [278 | 10 | 28.7 | -01 | 32 | 22.4]
+      linha 66 Procyon: [276° | 13' | 59.4'' | 02° | 17' | 58.0''] -> [276 | 13 | 59.4 | 02 | 17 | 58.0]
+   [18/08/2026] aba '18082026 - Concluído' -> 08-18-26.txt
+      linha 72 Procyon: [241 | 53 | 51.5 | -63 | 41 | 59.0] -> [241 | 53 | 51.5 | -63 | 41 | 59.0]
+      linha 73 HR2918: [242 | 18 | 40.9 | -64 | 36 | 52.0] -> [242 | 18 | 40.9 | -64 | 36 | 52.0]
+      linha 74 Gomeisa: Alt(sec): célula convertida pelo Excel em data (24/05/2026) -> reconstruída como '24.5'
+      linha 74 Gomeisa: [244 | 26 | 37.6 | -67 | 52 | 24/05/2026] -> [244 | 26 | 37.6 | -67 | 52 | 24.5]

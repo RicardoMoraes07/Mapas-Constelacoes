@@ -1,0 +1,21 @@
+CORREÇÕES DE COORDENADAS — Canis-Minor
+Referência: Stellarium Web, Nova Venécia (lat 18°42'49" S, long 40°22'41" O), sempre às 20:00 (UTC-3).
+Revisão feita em 15/11/2026. Formato: ARQUIVO | ESTRELA | DADO ANTERIOR (Az° ' " / Alt° ' ") -> DADO NOVO | MOTIVO
+
+06-22-26.txt | Gomeisa | 278 10 28.7 / -01 32 22.4 -> 273 37 25.5 / -15 27 55.8 | desvio de 14.6° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | Procyon | 276 13 59.4 / 02 17 58.0 -> 271 32 39.6 / -11 40 04.7 | desvio de 14.7° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+
+Total: 2 linha(s) corrigida(s) em 1 arquivo(s).
+
+
+ESTRELAS / DADOS FALTANTES PREENCHIDOS — revisão de 15/11/2026
+Referência: Stellarium Web, Nova Venécia, 20:00 (UTC-3). Formato: ARQUIVO | ESTRELA | ANTES -> DEPOIS (Az ° ' " / Alt ° ' ") | MOTIVO
+
+06-13-26.txt | Procyon | -90 -90 -90 / -90 -90 -90 -> 274 20 19.3 / -2 52 06.2 | constelação ausente da aba 13/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-13-26.txt | Gomeisa | -90 -90 -90 / -90 -90 -90 -> 276 19 44.8 / -7 05 45.6 | constelação ausente da aba 13/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-16-26.txt | Procyon | -90 -90 -90 / -90 -90 -90 -> 273 24 19.1 / -6 04 19.6 | constelação ausente da aba 16/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-16-26.txt | Gomeisa | -90 -90 -90 / -90 -90 -90 -> 275 25 23.2 / -9 52 54.8 | constelação ausente da aba 16/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-19-26.txt | Procyon | -90 -90 -90 / -90 -90 -90 -> 272 28 31.1 / -8 52 08.8 | constelação ausente da aba 19/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-19-26.txt | Gomeisa | -90 -90 -90 / -90 -90 -90 -> 274 31 21.7 / -12 40 19.2 | constelação ausente da aba 19/06 na planilha (dia entre dias observados); preenchido com Stellarium
+
+Total: 6 linha(s) preenchida(s) em 3 arquivo(s).
