@@ -1,0 +1,3 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+Chara	04/06/2026	352	00	17.8	29	29	08.8
+CorCaroli	04/06/2026	356	32	04.1	33	01	41.5

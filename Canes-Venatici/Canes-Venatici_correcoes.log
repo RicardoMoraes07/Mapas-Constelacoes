@@ -1,0 +1,8 @@
+CORREÇÕES DE COORDENADAS — Canes-Venatici
+Referência: Stellarium Web, Nova Venécia (lat 18°42'49" S, long 40°22'41" O), sempre às 20:00 (UTC-3).
+Revisão feita em 15/11/2026. Formato: ARQUIVO | ESTRELA | DADO ANTERIOR (Az° ' " / Alt° ' ") -> DADO NOVO | MOTIVO
+
+06-22-26.txt | Chara | 349 30 31.6 / 29 00 24.7 -> 337 50 55.5 / 25 04 55.8 | desvio de 11.1° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | CorCaroli | 353 46 50.5 / 32 45 59.2 -> 340 41 33.3 / 29 40 45.3 | desvio de 11.6° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+
+Total: 2 linha(s) corrigida(s) em 1 arquivo(s).

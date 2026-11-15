@@ -1,0 +1,131 @@
+LOG DA CONSTELAÇÃO: Canes Venatici
+Gerado em 14/11/2026 a partir de 'Diário de Observação - Junho.xlsx' (abas de 01/06/2026 a 30/08/2026)
+Pasta: Canes-Venatici   |   Arquivos gerados: 31  (25 com dados da planilha, 6 sem registro -> preenchidos com -90)
+Nome(s) da constelação na planilha: 'Canes Venatici' (50 linhas)  -> padronizado como 'Canes Venatici' / pasta 'Canes-Venatici'
+
+==============================================================================
+1. DIAS EM QUE A CONSTELAÇÃO NÃO APARECE NA PLANILHA (arquivo criado com -90)
+==============================================================================
+   15/08/2026  (08-15-26.txt) — aba '15082026- Concluído' não contém Canes Venatici. Lista de estrelas copiada do dia 12/08/2026: Chara, CorCaroli
+   18/08/2026  (08-18-26.txt) — aba '18082026 - Concluído' não contém Canes Venatici. Lista de estrelas copiada do dia 12/08/2026: Chara, CorCaroli
+   21/08/2026  (08-21-26.txt) — aba '21082026 - concluído' não contém Canes Venatici. Lista de estrelas copiada do dia 12/08/2026: Chara, CorCaroli
+   24/08/2026  (08-24-26.txt) — aba '24082026 - Concluído' não contém Canes Venatici. Lista de estrelas copiada do dia 12/08/2026: Chara, CorCaroli
+   27/08/2026  (08-27-26.txt) — aba '27082026 - concluído' não contém Canes Venatici. Lista de estrelas copiada do dia 12/08/2026: Chara, CorCaroli
+   30/08/2026  (08-30-26.txt) — aba '30082026 - concluído' não contém Canes Venatici. Lista de estrelas copiada do dia 12/08/2026: Chara, CorCaroli
+
+==============================================================================
+2. POSSÍVEIS INCONSISTÊNCIAS NOS DADOS (verificar na planilha)
+==============================================================================
+2.1 Nomes de estrelas
+   Nada encontrado.
+
+2.2 Estrelas que não aparecem em todos os dias observados
+   Nada encontrado — o mesmo conjunto de estrelas em todos os dias.
+
+2.3 Dias com coordenadas idênticas a outro dia (possível cópia/colagem de dados)
+   07/06/2026 e 22/06/2026: 2 de 2 estrela(s) com Az/Alt EXATAMENTE iguais — as posições deveriam mudar de um dia para outro. Estrelas: Chara, CorCaroli
+
+2.4 Problemas por dia
+   [09/08/2026] aba '09082026 - concluído'
+      - linha 51 Chara: Alt(deg) = '-0' — o sinal negativo se perde na conversão numérica (float('-0') = 0), altitude ficará positiva no cálculo
+
+==============================================================================
+3. ALTERAÇÕES REALIZADAS
+==============================================================================
+Regras aplicadas a todos os valores: removidos os símbolos ° º ' " '' ; vírgula decimal trocada por ponto;
+segundos no formato XX.0X corrigidos para XX.X; espaços removidos dos nomes das estrelas;
+valores que o Excel havia convertido em data (ex.: 30.5 -> 30/mai) reconstruídos como DIA.MÊS (ex.: 30.5);
+data de cada linha = data da aba. Abaixo, cada linha no formato [valores originais] -> [valores gravados].
+
+   [01/06/2026] aba '01062026-Concluido' -> 06-01-26.txt
+      linha 313 CorCaroli: [359° | 16' | 02.4" | 33 | 05' | 05.5"] -> [359 | 16 | 02.4 | 33 | 05 | 05.5]
+      linha 314 Chara: [354° | 30' | 11.6" | 29 | 45' | 56.9"] -> [354 | 30 | 11.6 | 29 | 45 | 56.9]
+   [04/06/2026] aba '04062026-Concluído' -> 06-04-26.txt
+      linha 15 Chara: [352° | 00' | 17.8" | 29° | 29' | 08.8"] -> [352 | 00 | 17.8 | 29 | 29 | 08.8]
+      linha 16 CorCaroli: [356° | 32' | 04.1" | 33° | 01' | 41.5"] -> [356 | 32 | 04.1 | 33 | 01 | 41.5]
+   [07/06/2026] aba '07062026 - Concluído' -> 06-07-26.txt
+      linha 46 Chara: [349° | 30' | 31.6'' | 29° | 00' | 24.7''] -> [349 | 30 | 31.6 | 29 | 00 | 24.7]
+      linha 47 CorCaroli: [353° | 46' | 50.5'' | 32° | 45' | 59.2''] -> [353 | 46 | 50.5 | 32 | 45 | 59.2]
+   [10/06/2026] aba '10062026 - concluído' -> 06-10-26.txt
+      linha 308 CorCaroli: [351° | 01' | 27.5" | 32° | 22' | 20.8"] -> [351 | 01 | 27.5 | 32 | 22 | 20.8]
+      linha 309 Chara: [347° | 01' | 42.8" | 28° | 24' | 57.0"] -> [347 | 01 | 42.8 | 28 | 24 | 57.0]
+   [13/06/2026] aba '13062026 - Concluído' -> 06-13-26.txt
+      linha 46 Chara: [344° | 39' | 26.5'' | 27° | 47' | 02.7''] -> [344 | 39 | 26.5 | 27 | 47 | 02.7]
+      linha 47 CorCaroli: [348° | 22' | 33.3'' | 31° | 55' | 21.6''] -> [348 | 22 | 33.3 | 31 | 55 | 21.6]
+   [16/06/2026] aba '16062026 - Concluído' -> 06-16-26.txt
+      linha 45 Chara: [342° | 19' | 07.8'' | 26° | 57' | 24.7''] -> [342 | 19 | 07.8 | 26 | 57 | 24.7]
+      linha 46 CorCaroli: [345° | 44' | 54.1'' | 31° | 16' | 08.9''] -> [345 | 44 | 54.1 | 31 | 16 | 08.9]
+   [19/06/2026] aba '19062026 - concluído' -> 06-19-26.txt
+      linha 277 CorCaroli: [343° | 09' | 26.0" | 30° | 29' | 33.8"] -> [343 | 09 | 26.0 | 30 | 29 | 33.8]
+      linha 278 Chara: [340° | 01' | 27.0" | 26° | 01' | 53.4"] -> [340 | 01 | 27.0 | 26 | 01 | 53.4]
+   [22/06/2026] aba '22062026- Concluído' -> 06-22-26.txt
+      linha 46 Chara: [349° | 30' | 31.6'' | 29° | 00' | 24.7''] -> [349 | 30 | 31.6 | 29 | 00 | 24.7]
+      linha 47 CorCaroli: [353° | 46' | 50.5'' | 32° | 45' | 59.2''] -> [353 | 46 | 50.5 | 32 | 45 | 59.2]
+   [25/06/2026] aba '25062026 - concluido' -> 06-25-26.txt
+      linha 45 Chara: [335 | 43 | 36.3 | 23 | 56 | 33.4] -> [335 | 43 | 36.3 | 23 | 56 | 33.4]
+      linha 46 CorCaroli: [338 | 16 | 46.9 | 28 | 40 | 05.8] -> [338 | 16 | 46.9 | 28 | 40 | 05.8]
+   [28/06/2026] aba '28062026 - concluído' -> 06-28-26.txt
+      linha 300 CorCaroli: Alt(sec): célula convertida pelo Excel em data (13/02/2026) -> reconstruída como '13.2'
+      linha 300 CorCaroli: [335 | 55 | 45.4 | 27 | 33 | 13/02/2026] -> [335 | 55 | 45.4 | 27 | 33 | 13.2]
+      linha 301 Chara: [333 | 39 | 55.3 | 22 | 43 | 38.4] -> [333 | 39 | 55.3 | 22 | 43 | 38.4]
+   [01/07/2026] aba '01072026- Concluído' -> 07-01-26.txt
+      linha 22 Chara: Az(sec): célula convertida pelo Excel em data (28/07/2026) -> reconstruída como '28.7'
+      linha 22 Chara: [331 | 43 | 28/07/2026 | 21 | 27 | 39.6] -> [331 | 43 | 28.7 | 21 | 27 | 39.6]
+      linha 23 CorCaroli: Alt(sec): célula convertida pelo Excel em data (14/06/2026) -> reconstruída como '14.6'
+      linha 23 CorCaroli: [333 | 42 | 41.0 | 26 | 23 | 14/06/2026] -> [333 | 42 | 41.0 | 26 | 23 | 14.6]
+   [04/07/2026] aba '04072026 - Concluído' -> 07-04-26.txt
+      linha 298 CorCaroli: Alt(sec): célula convertida pelo Excel em data (04/01/2026) -> reconstruída como '4.1'
+      linha 298 CorCaroli: [331 | 33 | 45.9 | 25 | 8 | 04/01/2026] -> [331 | 33 | 45.9 | 25 | 8 | 4.1]
+      linha 299 Chara: Alt(sec): célula convertida pelo Excel em data (16/03/2026) -> reconstruída como '16.3'
+      linha 299 Chara: [329 | 50 | 52.8 | 20 | 8 | 16/03/2026] -> [329 | 50 | 52.8 | 20 | 8 | 16.3]
+   [07/07/2026] aba '07072026 - concluído' -> 07-07-26.txt
+      linha 306 CorCaroli: Az(sec): célula convertida pelo Excel em data (20/09/2026) -> reconstruída como '20.9'
+      linha 306 CorCaroli: [329 | 29 | 20/09/2026 | 23 | 42 | 02.9"] -> [329 | 29 | 20.9 | 23 | 42 | 02.9]
+      linha 307 Chara: Az(sec): célula convertida pelo Excel em data (20/06/2026) -> reconstruída como '20.6'
+      linha 307 Chara: Alt(sec): célula convertida pelo Excel em data (18/07/2026) -> reconstruída como '18.7'
+      linha 307 Chara: [328 | 2 | 20/06/2026 | 18 | 38 | 18/07/2026] -> [328 | 2 | 20.6 | 18 | 38 | 18.7]
+   [10/07/2026] aba '10072026- concluído' -> 07-10-26.txt
+      linha 255 CorCaroli: [327 | 32 | 39.1 | 22 | 15 | 32.8] -> [327 | 32 | 39.1 | 22 | 15 | 32.8]
+      linha 256 Chara: [326 | 20 | 45.9 | 17 | 7 | 53.2] -> [326 | 20 | 45.9 | 17 | 7 | 53.2]
+   [13/07/2026] aba '13072026 - concluído' -> 07-13-26.txt
+      linha 54 Chara: [324 | 43 | 12.0 | 15 | 35 | 53.2] -> [324 | 43 | 12.0 | 15 | 35 | 53.2]
+      linha 55 CorCaroli: [325 | 40 | 27.8 | 20 | 45 | 22.0] -> [325 | 40 | 27.8 | 20 | 45 | 22.0]
+   [16/07/2026] aba '16072026 - concluído' -> 07-16-26.txt
+      linha 299 CorCaroli: Alt(sec): célula convertida pelo Excel em data (24/01/2026) -> reconstruída como '24.1'
+      linha 299 CorCaroli: [323 | 52 | 54.0 | 19 | 5 | 24/01/2026] -> [323 | 52 | 54.0 | 19 | 5 | 24.1]
+      linha 300 Chara: Alt(sec): célula convertida pelo Excel em data (11/01/2026) -> reconstruída como '11.1'
+      linha 300 Chara: [323 | 9 | 42.4 | 13 | 54 | 11/01/2026] -> [323 | 9 | 42.4 | 13 | 54 | 11.1]
+   [19/07/2026] aba '19072026 - concluído' -> 07-19-26.txt
+      linha 282 CorCaroli: Az(sec): célula convertida pelo Excel em data (31/07/2026) -> reconstruída como '31.7'
+      linha 282 CorCaroli: Alt(sec): célula convertida pelo Excel em data (10/03/2026) -> reconstruída como '10.3'
+      linha 282 CorCaroli: [322 | 12 | 31/07/2026 | 17 | 28 | 10/03/2026] -> [322 | 12 | 31.7 | 17 | 28 | 10.3]
+      linha 283 Chara: [321 | 42 | 44.7 | 12 | 15 | 46.4] -> [321 | 42 | 44.7 | 12 | 15 | 46.4]
+   [22/07/2026] aba '22072026 - concluído' -> 07-22-26.txt
+      linha 54 Chara: [320 | 19 | 40.5 | 10 | 30 | 15.7] -> [320 | 19 | 40.5 | 10 | 30 | 15.7]
+      linha 55 CorCaroli: [320 | 36 | 33.8 | 15 | 43 | 21.5] -> [320 | 36 | 33.8 | 15 | 43 | 21.5]
+   [25/07/2026] aba '25072026 - concluído' -> 07-25-26.txt
+      linha 299 CorCaroli: Az(sec): célula convertida pelo Excel em data (20/05/2026) -> reconstruída como '20.5'
+      linha 299 CorCaroli: [319 | 6 | 20/05/2026 | 13 | 57 | 03.9"] -> [319 | 6 | 20.5 | 13 | 57 | 03.9]
+      linha 300 Chara: Alt(sec): célula convertida pelo Excel em data (14/04/2026) -> reconstruída como '14.4'
+      linha 300 Chara: [319 | 1 | 46.2 | 8 | 44 | 14/04/2026] -> [319 | 1 | 46.2 | 8 | 44 | 14.4]
+   [28/07/2026] aba '28072026- Concluído' -> 07-28-26.txt
+      linha 61 CorCaroli: Alt(sec): célula convertida pelo Excel em data (16/08/2026) -> reconstruída como '16.8'
+      linha 61 CorCaroli: [317 | 39 | 57.2 | 12 | 0 | 16/08/2026] -> [317 | 39 | 57.2 | 12 | 0 | 16.8]
+      linha 62 Chara: Az(sec): célula convertida pelo Excel em data (20/01/2026) -> reconstruída como '20.1'
+      linha 62 Chara: Alt(sec): célula convertida pelo Excel em data (21/06/2026) -> reconstruída como '21.6'
+      linha 62 Chara: [317 | 47 | 20/01/2026 | 6 | 45 | 21/06/2026] -> [317 | 47 | 20.1 | 6 | 45 | 21.6]
+   [31/07/2026] aba '31072026 - concluído' -> 07-31-26.txt
+      linha 54 Chara: [316 | 37 | 51.3 | 04 | 59 | 53.0] -> [316 | 37 | 51.3 | 04 | 59 | 53.0]
+      linha 55 CorCaroli: [316 | 19 | 00.8 | 10 | 10 | 21.3] -> [316 | 19 | 00.8 | 10 | 10 | 21.3]
+   [03/08/2026] aba '03082026-concluído' -> 08-03-26.txt
+      linha 54 Chara: [315 | 31 | 55.5 | 03 | 04 | 44.4] -> [315 | 31 | 55.5 | 03 | 04 | 44.4]
+      linha 55 CorCaroli: [315 | 02 | 01.7 | 08 | 11 | 02.5] -> [315 | 02 | 01.7 | 08 | 11 | 02.5]
+   [06/08/2026] aba '06082026 - concluído' -> 08-06-26.txt
+      linha 51 Chara: [314 | 31 | 46.1 | 01 | 17 | 21.5] -> [314 | 31 | 46.1 | 01 | 17 | 21.5]
+      linha 52 CorCaroli: [313 | 51 | 06.0 | 06 | 16 | 14.8] -> [313 | 51 | 06.0 | 06 | 16 | 14.8]
+   [09/08/2026] aba '09082026 - concluído' -> 08-09-26.txt
+      linha 51 Chara: [313 | 34 | 58.6 | -00 | 30 | 06.6] -> [313 | 34 | 58.6 | -00 | 30 | 06.6]
+      linha 52 CorCaroli: [312 | 43 | 50.0 | 04 | 15 | 44.3] -> [312 | 43 | 50.0 | 04 | 15 | 44.3]
+   [12/08/2026] aba '12082026 - concluído' -> 08-12-26.txt
+      linha 51 Chara: [312 | 41 | 26.8 | -02 | 44 | 53.0] -> [312 | 41 | 26.8 | -02 | 44 | 53.0]
+      linha 52 CorCaroli: [311 | 40 | 04.9 | 02 | 14 | 27.7] -> [311 | 40 | 04.9 | 02 | 14 | 27.7]

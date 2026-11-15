@@ -1,0 +1,3 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+Chara	30/08/2026	-90	-90	-90	-90	-90	-90
+CorCaroli	30/08/2026	-90	-90	-90	-90	-90	-90
