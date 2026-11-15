@@ -1,0 +1,16 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+Furud	04/07/2026	-90	-90	-90	-90	-90	-90
+Adhara	04/07/2026	-90	-90	-90	-90	-90	-90
+SigmaCanisMajoris	04/07/2026	-90	-90	-90	-90	-90	-90
+Wezen	04/07/2026	-90	-90	-90	-90	-90	-90
+OmegaCanisMajoris	04/07/2026	-90	-90	-90	-90	-90	-90
+Aludra	04/07/2026	-90	-90	-90	-90	-90	-90
+OmicronCanisMajoris	04/07/2026	-90	-90	-90	-90	-90	-90
+15CanisMajoris	04/07/2026	-90	-90	-90	-90	-90	-90
+Sirius	04/07/2026	-90	-90	-90	-90	-90	-90
+NuCanisMajoris	04/07/2026	-90	-90	-90	-90	-90	-90
+XiCanisMajoris	04/07/2026	-90	-90	-90	-90	-90	-90
+Mirzam	04/07/2026	-90	-90	-90	-90	-90	-90
+IotaCanisMajoris	04/07/2026	-90	-90	-90	-90	-90	-90
+Muliphein	04/07/2026	-90	-90	-90	-90	-90	-90
+ThetaCanisMajoris	04/07/2026	-90	-90	-90	-90	-90	-90

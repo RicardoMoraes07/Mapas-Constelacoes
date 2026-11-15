@@ -1,0 +1,57 @@
+CORREÇÕES DE COORDENADAS — Canis-Major
+Referência: Stellarium Web, Nova Venécia (lat 18°42'49" S, long 40°22'41" O), sempre às 20:00 (UTC-3).
+Revisão feita em 15/11/2026. Formato: ARQUIVO | ESTRELA | DADO ANTERIOR (Az° ' " / Alt° ' ") -> DADO NOVO | MOTIVO
+
+06-10-26.txt | 15CanisMajoris | 243 53 27.2 / -00 30 24.7 -> 247 32 32.3 / -2 05 59.5 | desvio de 4.0° em relação ao Stellarium
+06-22-26.txt | Furud | 236 35 43.6 / -03 27 24.8 -> 230 29 25.9 / -14 44 14.9 | desvio de 12.8° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | Adhara | 240 39 11.1 / 03 54 14.1 -> 235 37 15.2 / -8 00 09.8 | desvio de 12.9° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | SigmaCanisMajoris | 241 51 28.7 / 04 12 36.0 -> 236 51 49.2 / -7 51 02.9 | desvio de 13.0° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | Wezen | 243 47 50.6 / 05 07 41.3 -> 238 54 38.2 / -7 10 19.1 | desvio de 13.2° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | OmegaCanisMajoris | 243 52 35.9 / 06 36 38.2 -> 239 09 46.6 / -5 42 31.9 | desvio de 13.2° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | Aludra | 242 01 48.4 / 09 18 15.7 -> 237 39 51.2 / -2 14 34.9 | desvio de 12.3° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | OmicronCanisMajoris | 245 50 32.7 / 03 09 40.2 -> 240 44 01.2 / -9 21 25.3 | desvio de 15.5° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | 15CanisMajoris | 248 31 00.6 / -00 06 36.8 -> 243 05 36.0 / -12 53 26.9 | desvio de 13.9° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | Sirius | 251 06 46.9 / -03 11 29.0 -> 245 27 24.6 / -16 12 23.7 | desvio de 14.2° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | NuCanisMajoris | 248 01 31.8 / -04 09 53.4 -> 242 09 31.8 / -16 52 25.9 | desvio de 14.0° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | XiCanisMajoris | 244 25 44.1 / -03 09 28.3 -> 238 33 39.9 / -15 28 29.1 | desvio de 13.6° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | Mirzam | 247 59 46.6 / -07 43 28.2 -> 241 43 56.5 / -20 24 38.3 | desvio de 33.2° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | IotaCanisMajoris | 251 42 27.1 / -00 36 19.8 -> 246 18 33.2 / -13 41 04.3 | desvio de 14.1° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | Muliphein | 253 39 17.2 / 00 38 51.0 -> 248 24 34.3 / -12 35 55.9 | desvio de 14.2° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | ThetaCanisMajoris | 256 16 25.6 / -02 44 18.7 -> 250 50 38.7 / -16 10 15.7 | desvio de 14.5° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+08-18-26.txt | Muliphein | 283 0 12.9 / -52 53 47.9 -> 203 10 55.0 / -52 50 54.3 | desvio de 45.6° em relação ao Stellarium
+08-18-26.txt | Adhara | 194 51 53.0 / -49 41 52.7 -> 194 59 58.1 / -40 39 54.6 | desvio de 9.0° em relação ao Stellarium
+08-18-26.txt | Nu²Canis | 191 12 34.3 / -21 19 38.4 -> 191 23 23.4 / -51 18 05.9 | desvio de 30.0° em relação ao Stellarium
+08-18-26.txt | SigmaCanis | 196 87 40.4 / -41 29 34.3 -> 196 15 52.7 / -41 27 27.5 | valor inválido/ausente na planilha
+
+Total: 20 linha(s) corrigida(s) em 3 arquivo(s).
+
+
+ESTRELAS / DADOS FALTANTES PREENCHIDOS — revisão de 15/11/2026
+Referência: Stellarium Web, Nova Venécia, 20:00 (UTC-3). Formato: ARQUIVO | ESTRELA | ANTES -> DEPOIS (Az ° ' " / Alt ° ' ") | MOTIVO
+
+06-04-26.txt | Furud | (estrela ausente no arquivo) -> 237 36 17.3 / -0 27 02.5 | estrela presente nos dias vizinhos mas faltando na planilha; inserida com Stellarium
+06-04-26.txt | SigmaCanisMajoris | (estrela ausente no arquivo) -> 242 40 56.3 / 6 48 55.8 | estrela presente nos dias vizinhos mas faltando na planilha; inserida com Stellarium
+06-04-26.txt | 15CanisMajoris | (estrela ausente no arquivo) -> 249 26 40.6 / 2 45 10.1 | estrela presente nos dias vizinhos mas faltando na planilha; inserida com Stellarium
+06-04-26.txt | Sirius | (estrela ausente no arquivo) -> 252 05 25.8 / 0 01 31.1 | estrela presente nos dias vizinhos mas faltando na planilha; inserida com Stellarium
+06-04-26.txt | NuCanisMajoris | (estrela ausente no arquivo) -> 249 01 31.8 / -0 50 34.4 | estrela presente nos dias vizinhos mas faltando na planilha; inserida com Stellarium
+06-04-26.txt | XiCanisMajoris | (estrela ausente no arquivo) -> 245 25 12.8 / -0 11 15.3 | estrela presente nos dias vizinhos mas faltando na planilha; inserida com estimado (estrela não localizada no Stellarium; posição propagada das observações vizinhas)
+06-04-26.txt | Mirzram | (estrela ausente no arquivo) -> 249 03 37.4 / -5 07 05.2 | estrela presente nos dias vizinhos mas faltando na planilha; inserida com Stellarium
+06-04-26.txt | ThetaCanisMajoris | (estrela ausente no arquivo) -> 257 14 16.8 / 0 27 56.5 | estrela presente nos dias vizinhos mas faltando na planilha; inserida com Stellarium
+06-13-26.txt | 15CanisMajoris | (estrela ausente no arquivo) -> 246 31 01.6 / -5 17 10.3 | estrela presente nos dias vizinhos mas faltando na planilha; inserida com Stellarium
+06-19-26.txt | Furud | -90 -90 -90 / -90 -90 -90 -> 231 51 55.8 / -12 33 19.1 | constelação ausente da aba 19/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-19-26.txt | Adhara | -90 -90 -90 / -90 -90 -90 -> 236 45 23.4 / -5 40 32.2 | constelação ausente da aba 19/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-19-26.txt | SigmaCanisMajoris | -90 -90 -90 / -90 -90 -90 -> 237 59 19.3 / -5 29 25.8 | constelação ausente da aba 19/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-19-26.txt | Wezen | -90 -90 -90 / -90 -90 -90 -> 240 00 29.2 / -4 43 23.2 | constelação ausente da aba 19/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-19-26.txt | OmegaCanisMajoris | -90 -90 -90 / -90 -90 -90 -> 240 13 22.4 / -2 53 09.6 | constelação ausente da aba 19/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-19-26.txt | Aludra | -90 -90 -90 / -90 -90 -90 -> 238 39 17.6 / 0 06 22.3 | constelação ausente da aba 19/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-19-26.txt | OmicronCanisMajoris | -90 -90 -90 / -90 -90 -90 -> 241 52 28.2 / -6 54 00.7 | constelação ausente da aba 19/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-19-26.txt | 15CanisMajoris | -90 -90 -90 / -90 -90 -90 -> 244 17 51.4 / -10 22 48.4 | constelação ausente da aba 19/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-19-26.txt | Sirius | -90 -90 -90 / -90 -90 -90 -> 246 42 29.9 / -13 38 46.7 | constelação ausente da aba 19/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-19-26.txt | NuCanisMajoris | -90 -90 -90 / -90 -90 -90 -> 243 27 56.2 / -14 22 57.0 | constelação ausente da aba 19/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-19-26.txt | XiCanisMajoris | -90 -90 -90 / -90 -90 -90 -> 239 52 27.9 / -13 04 06.6 | constelação ausente da aba 19/06 na planilha (dia entre dias observados); preenchido com estimado (estrela não localizada no Stellarium; posição propagada das observações vizinhas)
+06-19-26.txt | Mirzam | -90 -90 -90 / -90 -90 -90 -> 243 07 54.1 / -17 55 40.4 | constelação ausente da aba 19/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-19-26.txt | IotaCanisMajoris | -90 -90 -90 / -90 -90 -90 -> 247 29 57.8 / -11 06 29.9 | constelação ausente da aba 19/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-19-26.txt | Muliphein | -90 -90 -90 / -90 -90 -90 -> 249 33 31.7 / -9 59 03.8 | constelação ausente da aba 19/06 na planilha (dia entre dias observados); preenchido com Stellarium
+06-19-26.txt | ThetaCanisMajoris | -90 -90 -90 / -90 -90 -90 -> 252 01 44.8 / -13 30 58.0 | constelação ausente da aba 19/06 na planilha (dia entre dias observados); preenchido com Stellarium
+
+Total: 24 linha(s) preenchida(s) em 3 arquivo(s).

@@ -1,0 +1,16 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+Furud	19/06/2026	231	51	55.8	-12	33	19.1
+Adhara	19/06/2026	236	45	23.4	-5	40	32.2
+SigmaCanisMajoris	19/06/2026	237	59	19.3	-5	29	25.8
+Wezen	19/06/2026	240	00	29.2	-4	43	23.2
+OmegaCanisMajoris	19/06/2026	240	13	22.4	-2	53	09.6
+Aludra	19/06/2026	238	39	17.6	0	06	22.3
+OmicronCanisMajoris	19/06/2026	241	52	28.2	-6	54	00.7
+15CanisMajoris	19/06/2026	244	17	51.4	-10	22	48.4
+Sirius	19/06/2026	246	42	29.9	-13	38	46.7
+NuCanisMajoris	19/06/2026	243	27	56.2	-14	22	57.0
+XiCanisMajoris	19/06/2026	239	52	27.9	-13	04	06.6
+Mirzam	19/06/2026	243	07	54.1	-17	55	40.4
+IotaCanisMajoris	19/06/2026	247	29	57.8	-11	06	29.9
+Muliphein	19/06/2026	249	33	31.7	-9	59	03.8
+ThetaCanisMajoris	19/06/2026	252	01	44.8	-13	30	58.0
