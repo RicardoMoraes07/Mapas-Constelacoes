@@ -1,0 +1,7 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+ChiCancri	30/08/2026	-90	-90	-90	-90	-90	-90
+AsellusBorealis	30/08/2026	-90	-90	-90	-90	-90	-90
+IotaCancri	30/08/2026	-90	-90	-90	-90	-90	-90
+AsellusAustralis	30/08/2026	-90	-90	-90	-90	-90	-90
+Acubens	30/08/2026	-90	-90	-90	-90	-90	-90
+BetaCancri	30/08/2026	-90	-90	-90	-90	-90	-90

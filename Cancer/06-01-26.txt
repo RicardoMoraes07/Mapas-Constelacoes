@@ -1,0 +1,7 @@
+Star    Data    Az(deg)    Az(min)    Az(sec)    Alt(deg)    Alt(min)    Alt(sec)
+ChiCancri	01/06/2026	302	28	26.9	8	29	22.8
+IotaCancri	01/06/2026	306	39	54.1	12	55	38.9
+AsellusBorealis	01/06/2026	299	41	29.0	15	45	47.2
+AsellusAustralis	01/06/2026	296	46	48.9	17	34	48.2
+Acubens	01/06/2026	292	23	30.6	23	23	04.9
+BetaCancri	01/06/2026	285	19	17.9	15	05	37.6

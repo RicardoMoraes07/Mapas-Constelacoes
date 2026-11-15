@@ -1,0 +1,12 @@
+CORREÇÕES DE COORDENADAS — Cancer
+Referência: Stellarium Web, Nova Venécia (lat 18°42'49" S, long 40°22'41" O), sempre às 20:00 (UTC-3).
+Revisão feita em 15/11/2026. Formato: ARQUIVO | ESTRELA | DADO ANTERIOR (Az° ' " / Alt° ' ") -> DADO NOVO | MOTIVO
+
+06-22-26.txt | ChiCancri | 300 16 34.5 / 03 39 39.6 -> 295 48 01.0 / -8 42 32.0 | desvio de 13.2° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | AsellusBorealis | 297 10 08.8 / 10 50 07.9 -> 291 56 43.0 / -1 10 30.1 | desvio de 13.1° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | IotaCancri | 304 09 58.5 / 08 21 00.9 -> 299 05 30.4 / -3 17 01.3 | desvio de 12.7° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | AsellusAustralis | 294 14 16.3 / 12 31 40.6 -> 288 55 30.9 / 0 03 15.8 | desvio de 13.5° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | Acubens | 289 43 47.6 / 18 10 19.6 -> 284 07 51.7 / 4 56 15.9 | desvio de 14.3° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+06-22-26.txt | BetaCancri | 283 07 29.9 / 09 39 13.7 -> 278 13 53.2 / -3 57 00.3 | desvio de 14.5° em relação ao Stellarium — valor idêntico ao de 07/06 (cópia da aba 07/06)
+
+Total: 6 linha(s) corrigida(s) em 1 arquivo(s).
